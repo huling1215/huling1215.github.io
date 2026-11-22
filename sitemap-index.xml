@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://huling1215.github.io/sitemap-zh-cn.xml</loc>
+    <lastmod>2026-11-22</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://huling1215.github.io/sitemap-en.xml</loc>
+    <lastmod>2026-11-22</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://huling1215.github.io/sitemap-zh-hant.xml</loc>
+    <lastmod>2026-11-22</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://huling1215.github.io/sitemap-ja.xml</loc>
+    <lastmod>2026-11-22</lastmod>
+  </sitemap>
+  <sitemap>
+    <loc>https://huling1215.github.io/sitemap-ko.xml</loc>
+    <lastmod>2026-11-22</lastmod>
+  </sitemap>
+</sitemapindex>

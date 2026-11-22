@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>雪迹 · 雪场选点与交通实测攻略</title>
+    <link>https://huling1215.github.io/guides/</link>
+    <description>由实地滑行作者撰写的雪场对比、交通换乘与装备准备指南，首段直接给出明确结论。</description>
+    <language>zh-CN</language>
+    <atom:link href="https://huling1215.github.io/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Nov 2026 00:00:00 GMT</lastBuildDate>
+    <item>
+      <title>中国护照免签去哈萨克斯坦阿拉木图琼布拉克滑雪：航班、雪票与住宿怎么安排？</title>
+      <link>https://huling1215.github.io/guides/almaty-shymbulak-visa-free-ski-trip-guide/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/almaty-shymbulak-visa-free-ski-trip-guide/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>持中国普通护照免签入境哈萨克斯坦单次可停30天：乌鲁木齐约2小时、北京约6小时直飞阿拉木图，住市区40分钟上山省预算，住3200米垭口可推门首滑。</description>
+    </item>
+    <item>
+      <title>阿拉木图三大雪场对比：琼布拉克、Oi-Qaragai 与 Ak-Bulak 各自适合什么水平？</title>
+      <link>https://huling1215.github.io/guides/almaty-shymbulak-vs-oi-qaragai-vs-ak-bulak/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/almaty-shymbulak-vs-oi-qaragai-vs-ak-bulak/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>琼布拉克海拔高至3200米且夜滑便捷，适合初中级刷长道；Oi-Qaragai海拔低且松林挡风，适合亲子新手；Ak-Bulak落差超千米且人少，适合进阶野雪。</description>
+    </item>
+    <item>
+      <title>免签去阿拉木图滑雪怎么换坚戈、买当地电话卡与租雪板？</title>
+      <link>https://huling1215.github.io/guides/almaty-visa-free-currency-sim-and-ski-rental/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/almaty-visa-free-currency-sim-and-ski-rental/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>阿拉木图机场ATM可用银联卡直接取坚戈，Beeline或Kcell机场柜台10分钟办好流量卡，雪场2260米中站可刷外币卡租全套雪具且无须繁琐手续。</description>
+    </item>
+    <item>
+      <title>阿尔贝格“白环 White Ring”怎么一天滑完？圣安东和莱赫怎么用缆车串联？</title>
+      <link>https://huling1215.github.io/guides/arlberg-white-ring-circuit-and-run-of-fame/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/arlberg-white-ring-circuit-and-run-of-fame/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>顺时针滑完22公里莱赫-楚尔斯“白环”仅需约3小时，沿途红蓝道流畅；若想一日纵穿圣安东与莱赫挑战85公里荣耀之环，则需上午9点前开滑并盯紧15点半前返程节点。</description>
+    </item>
+    <item>
+      <title>奥地利雪道木屋餐厅怎么点餐结账？雪后派对和穿雪鞋下山的防滑细节？</title>
+      <link>https://huling1215.github.io/guides/austria-apres-ski-and-ski-hut-etiquette/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/austria-apres-ski-and-ski-hut-etiquette/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>奥地利山间木屋分为桌边点餐与自助取餐区，部分老木屋偏爱欧元现金结账；下午雪后派对饮酒需量力而行，切勿醉酒滑行或穿硬底雪鞋踩冰坡下山。</description>
+    </item>
+    <item>
+      <title>奥地利四大雪区怎么挑：圣安东、莱赫、基茨比厄尔与伊施格尔适合什么水平？</title>
+      <link>https://huling1215.github.io/guides/austria-st-anton-vs-lech-vs-kitzbuhel-vs-ischgl/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/austria-st-anton-vs-lech-vs-kitzbuhel-vs-ischgl/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>圣安东适合爱陡坡野雪的中高级玩家；莱赫主打优雅皇室氛围与宽缓蓝道；基茨比厄尔适合古城度假与亲子入门；伊施格尔则兼顾跨国长雪季与热闹雪后社交。</description>
+    </item>
+    <item>
+      <title>在班夫用SkiBig3联票滑阳光村和路易斯湖，住班夫镇还是住山顶木屋更方便？</title>
+      <link>https://huling1215.github.io/guides/banff-ski-big3-free-shuttle-and-town-base/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/banff-ski-big3-free-shuttle-and-town-base/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>以滑阳光村为主且想清晨抢首滑选阳光山顶木屋（2至3晚）；兼滑路易斯湖、喜欢丰富牛排馆与温泉逛街选班夫镇（或两地分段入住）。</description>
+    </item>
+    <item>
+      <title>班夫阳光村4至5月春雪值得去吗？零下温度和太阳镜防晒怎么准备？</title>
+      <link>https://huling1215.github.io/guides/banff-spring-skiing-may-sunshine-slush-cup/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/banff-spring-skiing-may-sunshine-slush-cup/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>阳光村主滑区海拔超2160米，4至5月中旬仍保有干爽雪道与Slush Cup狂欢，房价更亲民；高海拔紫外线强且早晚零下，须备防晒与洋葱穿衣法。</description>
+    </item>
+    <item>
+      <title>去加拿大滑雪选西岸惠斯勒还是落基山班夫三大雪场？雪质、气温和航程差多少？</title>
+      <link>https://huling1215.github.io/guides/canada-whistler-vs-banff-big3-comparison/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/canada-whistler-vs-banff-big3-comparison/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>图省心直飞、怕冷与滑双峰大落差选惠斯勒（Epic）；喜欢干爽落基山粉雪、冰川湖景与5月春雪选班夫三大雪场（Ikon或SkiBig3）。</description>
+    </item>
+    <item>
+      <title>高雪维尔四个海拔村落 1850、1650、1550 和 1300 住哪层性价比高？</title>
+      <link>https://huling1215.github.io/guides/courchevel-1850-1650-1550-1300-villages-guide/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/courchevel-1850-1650-1550-1300-villages-guide/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>高雪维尔1650莫里永阳光充足、滑进滑出酒店集中且餐饮价格适中，综合性价比突出；1550适合安静家庭；1300保留传统木屋韵味；1850则主攻奢华宫殿体验。</description>
+    </item>
+    <item>
+      <title>飞丹佛走I-70还是飞盐湖城去帕克城？冬天租四驱车和堵车时间差多少？</title>
+      <link>https://huling1215.github.io/guides/denver-i70-vs-salt-lake-city-ski-transfer/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/denver-i70-vs-salt-lake-city-ski-transfer/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>盐湖城机场到帕克城仅40分钟且路况平稳；丹佛沿I-70去范尔约2小时，但周末常遇3至4小时堵车与暴雪封路，须严格遵守科州冬季雪胎法规。</description>
+    </item>
+    <item>
+      <title>去加尔代纳买Dolomiti Superski全域联票还是本地雪票？每天滑几公里才回本？</title>
+      <link>https://huling1215.github.io/guides/dolomiti-superski-pass-vs-local-val-gardena-pass/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/dolomiti-superski-pass-vs-local-val-gardena-pass/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>只滑奥蒂塞伊、休斯山与圣克里斯蒂娜买本地票即可省约一成；若滑塞拉环线或跨谷去阿尔塔巴迪亚与科尔蒂纳须买联票，每天跨谷滑行30公里以上即可回本。</description>
+    </item>
+    <item>
+      <title>初次去欧洲阿尔卑斯滑雪：瑞士采尔马特、法国三峡谷与奥地利圣安东怎么选？</title>
+      <link>https://huling1215.github.io/guides/europe-alps-zermatt-courchevel-st-anton-comparison/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/europe-alps-zermatt-courchevel-st-anton-comparison/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>看重无车小镇火车直达与3883米冰川景观选瑞士采尔马特；追求600公里连通压雪道与滑进滑出选法国三峡谷；偏爱陡峭野雪与热闹雪后社交选奥地利圣安东。</description>
+    </item>
+    <item>
+      <title>法国三大雪区怎么选：三峡谷、蒂涅瓦勒迪泽尔与霞慕尼差在哪？</title>
+      <link>https://huling1215.github.io/guides/france-3-vallees-vs-tignes-val-disere-vs-chamonix/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/france-3-vallees-vs-tignes-val-disere-vs-chamonix/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>追求600公里无缝互联压雪道与多元村落住滑选三峡谷；偏爱高海拔冰川雪质与长雪季粉雪选蒂涅瓦勒迪泽尔；看重机场近距直达与勃朗峰野雪挑战选霞慕尼。</description>
+    </item>
+    <item>
+      <title>为什么法国雪场公寓和 Club Med 多按周六进周六出预订？怎么避开大堵车日？</title>
+      <link>https://huling1215.github.io/guides/french-ski-weeks-saturday-to-saturday-rule/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/french-ski-weeks-saturday-to-saturday-rule/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>法国雪场旺季沿袭学校雪假7晚周六换房惯例以保证满房率；想避开周六峡谷大堵车，可选择周日进出、改乘TGV高铁上山或挑选支持灵活起止日的精品酒店。</description>
+    </item>
+    <item>
+      <title>飞日内瓦还是里昂机场去法国阿尔卑斯？TGV 火车转盘山大巴怎么接驳？</title>
+      <link>https://huling1215.github.io/guides/geneva-airport-to-french-alps-transfer-and-tgv/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/geneva-airport-to-french-alps-transfer-and-tgv/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>飞日内瓦机场去霞慕尼仅75分钟且去三峡谷班车高频；里昂机场则适合避开日内瓦周末拥堵并衔接铁路；巴黎转TGV直抵穆捷或圣莫里斯堡则能大幅减少盘山乘车时间。</description>
+    </item>
+    <item>
+      <title>在奥地利伊施格尔滑雪顺道滑进瑞士萨姆瑙恩免税村，要带护照吗？</title>
+      <link>https://huling1215.github.io/guides/ischgl-to-samnaun-switzerland-duty-free-ski/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/ischgl-to-samnaun-switzerland-duty-free-ski/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>虽然奥瑞雪道山脊无固定边检岗亭，但奥地利与瑞士分属欧盟内外关税区，海关抽查偶有发生；滑行跨国务必随身携带护照原件、申根签并留意欧盟免税限额。</description>
+    </item>
+    <item>
+      <title>在意大利雪场山顶木屋Rifugio吃午饭怎么点单？比瑞士奥地利便宜多少？</title>
+      <link>https://huling1215.github.io/guides/italian-rifugio-mountain-hut-lunch-and-aperitivo/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/italian-rifugio-mountain-hut-lunch-and-aperitivo/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>意式山屋午餐先选前菜意面或玉米糊配炖肉，单人主菜加饮品约18至28欧元，整体比瑞士采尔马特便宜约四成、比奥地利同档木屋略低一至两成。</description>
+    </item>
+    <item>
+      <title>意大利滑雪怎么选：科尔蒂纳、加尔代纳山谷还是切尔维尼亚？</title>
+      <link>https://huling1215.github.io/guides/italy-dolomites-cortina-vs-val-gardena-vs-cervinia/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/italy-dolomites-cortina-vs-val-gardena-vs-cervinia/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>看重威尼斯直达与白云岩地标选科尔蒂纳；追求四谷环线与水疗小镇选加尔代纳；偏爱2050米高海拔保雪与跨国滑入瑞士采尔马特选切尔维尼亚。</description>
+    </item>
+    <item>
+      <title>7至8月去新西兰反季滑雪住皇后镇还是瓦纳卡？卡德罗纳与卓越山雪况交通对比？</title>
+      <link>https://huling1215.github.io/guides/july-august-new-zealand-queenstown-wanaka-ski-guide/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/july-august-new-zealand-queenstown-wanaka-ski-guide/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>偏爱宽阔碗状雪道、公园进阶与清静湖镇选住瓦纳卡滑卡德罗纳；不愿走砂石山路、想兼顾25分钟铺装路快进快出与丰富餐饮则住皇后镇滑皇冠峰与卓越山。</description>
+    </item>
+    <item>
+      <title>韩国雪场夜滑几点开放？雪服雪板租赁和护具购买怎么避坑？</title>
+      <link>https://huling1215.github.io/guides/korea-night-ski-and-ski-rental-etiquette/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/korea-night-ski-and-ski-rental-etiquette/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>韩国雪场常在16:30至18:30压雪后开启夜滑至22:00或深夜；雪板雪服可现场租用，但护镜、手套、头套及防摔护具因卫生规定通常需自备或现场购买。</description>
+    </item>
+    <item>
+      <title>首尔近郊维瓦尔第当天往返滑雪，还是直接去平昌住滑 3 天更划算？</title>
+      <link>https://huling1215.github.io/guides/korea-vivaldi-day-trip-vs-pyeongchang-stay/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/korea-vivaldi-day-trip-vs-pyeongchang-stay/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>首次尝鲜打卡、首尔行程只剩1天机动时间选维瓦尔第当日往返；想认真学转弯、刷长雪道并体验夜滑加温泉，直接去平昌住滑3天2晚体验更完整。</description>
+    </item>
+    <item>
+      <title>韩国龙平、凤凰与High1怎么选？新手、公园玩家与家庭分别去哪座？</title>
+      <link>https://huling1215.github.io/guides/korea-yongpyong-vs-phoenix-vs-high1-guide/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/korea-yongpyong-vs-phoenix-vs-high1-guide/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>看重长距离高山道与经典大雪场规模选龙平；单板自由式与KTX短途选平昌凤凰；带新手或亲子想滑4.2公里缓坡兼泡水世界则选旌善High1。</description>
+    </item>
+    <item>
+      <title>坐火车直达 Bourg-Saint-Maurice 7 分钟缆索铁道上莱萨尔克雪场实操指南？</title>
+      <link>https://huling1215.github.io/guides/les-arcs-funicular-from-bourg-saint-maurice/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/les-arcs-funicular-from-bourg-saint-maurice/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>乘TGV抵达圣莫里斯堡站后，过连廊步行3分钟即达缆索铁道，7分钟直抵Arc 1600雪道口，再转免费穿梭巴士可达1800、1950与2000营地。</description>
+    </item>
+    <item>
+      <title>从阿拉木图市区坐 12 路公交或打车去麦迪奥再乘吊厢上琼布拉克怎么走？</title>
+      <link>https://huling1215.github.io/guides/medeu-gondola-and-almaty-bus-12-guide/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/medeu-gondola-and-almaty-bus-12-guide/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>市区在哈萨克斯坦酒店门前乘12路公交或用Yandex Go打车约35分钟到麦迪奥冰场，再换乘20分钟三段吊厢直达2260米琼布拉克中站，私家燃油车禁止上山。</description>
+    </item>
+    <item>
+      <title>飞基督城去哈特山滑雪：住梅思文镇还是住市区通勤更省事？</title>
+      <link>https://huling1215.github.io/guides/mt-hutt-christchurch-winter-ski-guide/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/mt-hutt-christchurch-winter-ski-guide/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>滑2天以上推荐住山脚梅思文镇，距雪场仅35分钟且方便泡温泉；仅滑1天或兼顾基督城市区观光，再选乘早上出发的市区直达滑雪巴士当日往返。</description>
+    </item>
+    <item>
+      <title>7月新西兰与澳洲学校假期哪两周雪场人多？怎么错峰订房和雪票？</title>
+      <link>https://huling1215.github.io/guides/new-zealand-school-holidays-july-crowds-guide/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/new-zealand-school-holidays-july-crowds-guide/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>每年7月前两周新西兰与澳洲寒假完全重叠，住宿涨价且缆车排队久；将行程安排在7月下旬至8月下旬或9月初，积雪更厚且人流舒适。</description>
+    </item>
+    <item>
+      <title>新西兰雪票怎么买：NZSki 三山卡和 Cardrona-Treble Cone 联票怎么选？</title>
+      <link>https://huling1215.github.io/guides/new-zealand-ski-pass-nzski-vs-cardrona-treble-cone/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/new-zealand-ski-pass-nzski-vs-cardrona-treble-cone/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>滑皇冠峰、卓越山与哈特山选NZSki三山卡；滑卡德罗纳与三锥山选Cardrona-TC联票；已有Ikon Pass可免购NZSki日票。</description>
+    </item>
+    <item>
+      <title>新西兰自驾上雪山一定要带防滑链吗？皇冠峰、卡德罗纳与哈特山路况对比？</title>
+      <link>https://huling1215.github.io/guides/new-zealand-snow-chains-and-mountain-shuttle-guide/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/new-zealand-snow-chains-and-mountain-shuttle-guide/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>新西兰雪山公路普遍强制随车携带防滑链（含四驱车），降雪或结冰日须现场安装；不想在寒风中挂链的游客建议改乘镇内雪场巴士或停山脚转摆渡车。</description>
+    </item>
+    <item>
+      <title>去北美滑雪选加拿大惠斯勒还是美国阿斯本雪堆山？Epic与Ikon通票怎么提前规划？</title>
+      <link>https://huling1215.github.io/guides/north-america-whistler-vs-colorado-ikon-epic-guide/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/north-america-whistler-vs-colorado-ikon-epic-guide/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>担心高反、看重温哥华2小时车程与双峰地形选惠斯勒（配Epic票）；追求干爽粉雪与四山分流选阿斯本雪堆山（配Ikon票），均须在12月初停售前购妥。</description>
+    </item>
+    <item>
+      <title>多洛米蒂Sellaronda四谷大环线顺时针橙线和逆时针绿线怎么滑？几岁能完赛？</title>
+      <link>https://huling1215.github.io/guides/sellaronda-orange-vs-green-loop-guide/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/sellaronda-orange-vs-green-loop-guide/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>顺时针橙线偏陡且红道多，适合控速稳健的中级雪友；逆时针绿线蓝道温和，适合初中级与家庭；建议10岁以上具备平行转弯能力的儿童在向导或家长陪同下完赛。</description>
+    </item>
+    <item>
+      <title>从首尔市区或仁川机场去江原道四大雪场，KTX高铁与直通巴士怎么选？</title>
+      <link>https://huling1215.github.io/guides/seoul-ktx-and-shuttle-to-gangwon-ski-resorts/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/seoul-ktx-and-shuttle-to-gangwon-ski-resorts/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>仁川机场落地直奔雪场且携带大件雪包，优先订直通滑雪巴士免换乘；从首尔站或清凉里出发去龙平、凤凰，乘京江线KTX加免费接驳更省时。</description>
+    </item>
+    <item>
+      <title>琼布拉克山顶海拔 3200 米容易高反吗？住市区还是住雪道中站更好？</title>
+      <link>https://huling1215.github.io/guides/shymbulak-altitude-3200m-acclimatization-guide/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/shymbulak-altitude-3200m-acclimatization-guide/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>阿拉木图市区约800米，缆车短时升至3200米通常仅感轻微气喘；易高反或失眠者建议住市区或1690米麦迪奥，追求晨间首滑则选2260米中站。</description>
+    </item>
+    <item>
+      <title>琼布拉克夜场几点开放？哪些雪道有照明且适合下班或落地当晚开滑？</title>
+      <link>https://huling1215.github.io/guides/shymbulak-night-ski-hours-and-lighting-runs/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/shymbulak-night-ski-hours-and-lighting-runs/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>琼布拉克每周二、四、六、日19:00至23:00开放夜场，Kombi-1与Kombi-2亮灯直达3200米山口，适合周六或落地当晚畅滑压雪长道。</description>
+    </item>
+    <item>
+      <title>滑雪遇到大风停缆车或暴雪封路，退改核对与周边替代行程怎么提前准备？</title>
+      <link>https://huling1215.github.io/guides/ski-resort-wind-hold-and-blizzard-backup-plan/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/ski-resort-wind-hold-and-blizzard-backup-plan/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>秒速超15至20米常触发山顶索道停运且多日连滑票通常不退费：建议改买跨日小时券，返程前留1晚枢纽城市缓冲，备好温泉短途B计划。</description>
+    </item>
+    <item>
+      <title>圣莫里茨恩加丁四山怎么串联滑？Corviglia 和 Corvatsch 冰川分别适合几天？</title>
+      <link>https://huling1215.github.io/guides/st-moritz-engadin-4-mountains-pass-guide/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/st-moritz-engadin-4-mountains-pass-guide/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>上恩加丁多日通票含免费巴士串联各山：5天行程可安排科尔维利亚滑2至3天练刻滑，Corvatsch冷雪与Diavolezza冰川各留1天。</description>
+    </item>
+    <item>
+      <title>坐瑞士火车带雪板怎么用 SBB 行李托运？买半价卡还是 Swiss Travel Pass 更省？</title>
+      <link>https://huling1215.github.io/guides/swiss-sbb-luggage-transfer-and-half-fare-card-ski/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/swiss-sbb-luggage-transfer-and-half-fare-card-ski/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>7天以内单雪场行程买瑞士半价卡配合点对点车票通常更省，雪板可免费带进车厢立架，也可在苏黎世机场直接办理SBB站到站托运轻装乘车。</description>
+    </item>
+    <item>
+      <title>瑞士三大雪区怎么选：采尔马特、圣莫里茨和韦尔比耶地形与氛围差在哪？</title>
+      <link>https://huling1215.github.io/guides/switzerland-zermatt-vs-st-moritz-vs-verbier/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/switzerland-zermatt-vs-st-moritz-vs-verbier/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>采尔马特看马特洪峰且能跨国滑入意大利，适合全能度假；圣莫里茨阳光充沛、压雪宽阔，适合中级刻滑与铁路奢华游；韦尔比耶野雪地形硬核，适合高阶玩家。</description>
+    </item>
+    <item>
+      <title>住瓦纳卡滑雪：卡德罗纳和三锥山难度差多少？适合什么水平？</title>
+      <link>https://huling1215.github.io/guides/treble-cone-vs-cardrona-wanaka-intermediate-guide/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/treble-cone-vs-cardrona-wanaka-intermediate-guide/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>卡德罗纳以宽缓碗区与丰富绿蓝道为主，适合初中级与公园玩家；三锥山90%为中高级陡坡与天然雪沟，推荐能稳定平行滑蓝黑道的进阶雪友前往。</description>
+    </item>
+    <item>
+      <title>科罗拉多雪场海拔普遍超3500米，刚落地如何防高反与补充水分？</title>
+      <link>https://huling1215.github.io/guides/usa-high-altitude-colorado-acclimatization-guide/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/usa-high-altitude-colorado-acclimatization-guide/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>范尔与阿斯本山脚海拔即近2470米，刚落地前48小时应大量饮水补充电解质、禁酒控咖啡因，首日安排在丹佛或低坡热身，避免一上来就猛冲山顶碗区。</description>
+    </item>
+    <item>
+      <title>美国雪场租雪板、请教练和酒店雪具托管要给多少小费？Demo板值得升级吗？</title>
+      <link>https://huling1215.github.io/guides/usa-ski-rental-demo-gear-and-tipping-guide/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/usa-ski-rental-demo-gear-and-tipping-guide/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>美国雪场全天私教建议给15%至20%或每半天20至40美元小费，酒店雪具托管每次2至5美元；滑行中级以上升级Demo板体验提升明显且支持中途免费换板。</description>
+    </item>
+    <item>
+      <title>美国四大雪场怎么选：范尔、阿斯本、帕克城和杰克逊霍尔分别适合谁？</title>
+      <link>https://huling1215.github.io/guides/usa-vail-vs-aspen-vs-park-city-vs-jackson-hole/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/usa-vail-vs-aspen-vs-park-city-vs-jackson-hole/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>重开阔后碗与欧式小镇选范尔（Epic），带娃或想下机快到雪场选帕克城（Epic），追求四山干粉雪选阿斯本（Ikon），专攻陡峭黑道与大缆车选杰克逊霍尔。</description>
+    </item>
+    <item>
+      <title>去范尔滑雪怎么逛七大后碗Back Bowls和蓝天盆地？新手能滑吗？</title>
+      <link>https://huling1215.github.io/guides/vail-back-bowls-and-blue-sky-basin-route-guide/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/vail-back-bowls-and-blue-sky-basin-route-guide/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>范尔七大后碗与蓝天盆地位于山脊南侧，视野开阔无树木遮挡，纯新手不宜贸然进入，但中级雪友可在晴天挑战China Bowl压雪主线并留足返程时间。</description>
+    </item>
+    <item>
+      <title>温哥华机场YVR去惠斯勒大巴要坐多久？租车上雪胎有哪些强制规定？</title>
+      <link>https://huling1215.github.io/guides/vancouver-yvr-to-whistler-sea-to-sky-transfer/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/vancouver-yvr-to-whistler-sea-to-sky-transfer/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>温哥华机场乘Skylynx等直达大巴沿99号海天公路约2.5至3小时抵达惠斯勒村；若自驾，10月至次年4月须依法配备M+S或雪花标冬季轮胎。</description>
+    </item>
+    <item>
+      <title>去意大利多洛米蒂飞威尼斯、米兰还是维罗纳机场？大巴和包车耗时对比？</title>
+      <link>https://huling1215.github.io/guides/venice-milan-verona-airport-to-dolomites-transfer/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/venice-milan-verona-airport-to-dolomites-transfer/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>去科尔蒂纳选威尼斯机场乘直达大巴约2小时；去加尔代纳或马东纳飞维罗纳或米兰转包车及高铁约2至3小时，大巴性价比高而包车更省时。</description>
+    </item>
+    <item>
+      <title>惠斯勒三大住宿区对比：主村、上村和Creekside分别适合什么预算和滑行习惯？</title>
+      <link>https://huling1215.github.io/guides/whistler-village-vs-upper-village-vs-creekside/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/whistler-village-vs-upper-village-vs-creekside/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>爱逛街与双吊厢直上选主村（如Westin）；偏好安静、滑进滑出与度假感选上村（如Fairmont/Four Seasons）；家庭求实惠选Creekside。</description>
+    </item>
+    <item>
+      <title>采尔马特无车小镇怎么住？选 Sunnegga、Gornergrat 还是冰川缆车站附近更方便？</title>
+      <link>https://huling1215.github.io/guides/zermatt-car-free-village-gornergrat-vs-klein-matterhorn/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/zermatt-car-free-village-gornergrat-vs-klein-matterhorn/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>采尔马特禁行燃油车，三大入口各有侧重：带娃新手选Sunnegga，铁路观景选Gornergrat，冲冰川与跨国滑意大利选南端冰川缆车。</description>
+    </item>
+    <item>
+      <title>在采尔马特滑雪怎么跨国滑去意大利切尔维尼亚？风大关缆车怎么看回程时间？</title>
+      <link>https://huling1215.github.io/guides/zermatt-international-pass-to-cervinia-italy/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/zermatt-international-pass-to-cervinia-italy/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>需购买瑞意国际通票并随身带护照，经3883米小马特洪峰或3480米泰奥杜尔山口滑入意大利吃午餐；切记提前查看下午15:30前后的返瑞末班缆车且警惕大风停运。</description>
+    </item>
+    <item>
+      <title>去奥地利蒂罗尔滑雪飞苏黎世、慕尼黑还是因斯布鲁克？ÖBB 火车直达对比？</title>
+      <link>https://huling1215.github.io/guides/zurich-munich-innsbruck-to-tyrol-obb-rail-guide/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/zurich-munich-innsbruck-to-tyrol-obb-rail-guide/</guid>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+      <description>去圣安东或莱赫飞苏黎世乘ÖBB Railjet直达约2.3小时；去基茨比厄尔飞慕尼黑转铁路约2.3小时；因斯布鲁克距四雪场均在90分钟内但直航较少。</description>
+    </item>
+    <item>
+      <title>初次滑雪租雪场基础板还是进阶板？哪些贴身护具建议提前自备？</title>
+      <link>https://huling1215.github.io/guides/first-time-ski-rental-vs-own-gear-guide/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/first-time-ski-rental-vs-own-gear-guide/</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <description>初次滑雪前3天租雪场软硬度适中的基础板与雪鞋容错率更高，无需买板或租硬朗进阶板；速干内衣、美利奴羊毛雪袜、防雾雪镜与护脸面罩建议提前自备。</description>
+    </item>
+    <item>
+      <title>去日本北海道滑一周雪真实总花费要多少？机票、住滑、全山票与教练预算拆解？</title>
+      <link>https://huling1215.github.io/guides/hokkaido-7-day-ski-trip-cost-breakdown/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/hokkaido-7-day-ski-trip-cost-breakdown/</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <description>双人同行北海道7天6晚（5个滑行日）人均总花费约1.8万至3.2万元：机票接驳4500至8000元，住滑6晚6500元起，5日全山票约3200元。</description>
+    </item>
+    <item>
+      <title>自带雪板顺丰寄国内雪场或托运飞日本北海道要注意哪些尺寸与收费细节？</title>
+      <link>https://huling1215.github.io/guides/shipping-skis-domestic-and-flying-to-japan/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/shipping-skis-domestic-and-flying-to-japan/</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <description>国内顺丰雪具寄按实重与体积重取大计费，建议提前3至4天寄出并足额保价；飞北海道选全日空三边限292厘米、日航与南航限203厘米且经济舱限重23公斤。</description>
+    </item>
+    <item>
+      <title>只有3至4天假期想出国滑雪：去韩国江原道龙平High1还是日本越后汤泽苗场更合适？</title>
+      <link>https://huling1215.github.io/guides/short-holiday-korea-gangwon-vs-japan-yuzawa/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/short-holiday-korea-gangwon-vs-japan-yuzawa/</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <description>拼周五请1至2天假选韩国龙平或High1更省时（飞首尔约2小时，4天人均5500元起）；看重天然雪与温泉选日本苗场（7500元起）。</description>
+    </item>
+    <item>
+      <title>冬季去新疆阿勒泰禾木吉克普林滑雪，山路冰雪怎么安排四驱雪地胎交通与供暖住宿？</title>
+      <link>https://huling1215.github.io/guides/altay-hemu-jikepulin-winter-4wd-and-lodging-guide/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/altay-hemu-jikepulin-winter-4wd-and-lodging-guide/</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <description>冬季进禾木须用配雪地胎的7座及以下四驱车：走布尔津经S232约4小时，阿禾公路限10:00至14:00放行；住宿选东区地暖酒店或新村木屋。</description>
+    </item>
+    <item>
+      <title>白马山谷雪场怎么挑？八方尾根、五龙47与栂池高原分别适合什么水平？</title>
+      <link>https://huling1215.github.io/guides/hakuba-valley-happo-goryu-tsugaike-comparison/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/hakuba-valley-happo-goryu-tsugaike-comparison/</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <description>零基础与家庭练活选拥有1200米宽缓坡的栂池高原；初中级混滑与地形公园进阶选双山相连的五龙47；挑战1071米大落差陡坡选八方尾根。</description>
+    </item>
+    <item>
+      <title>怎么辨别“真滑进滑出酒店”和每天等接驳车的“伪住滑酒店”？</title>
+      <link>https://huling1215.github.io/guides/how-to-spot-true-ski-in-ski-out-hotels/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/how-to-spot-true-ski-in-ski-out-hotels/</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <description>核验真滑进滑出须逐条确认三件事：预订楼栋雪具厅出口至缆车平地步行不超过100米、无需乘接驳车或穿马路，且门前雪道匹配自身滑行水平。</description>
+    </item>
+    <item>
+      <title>从东京出发去苗场、野泽温泉与白马，新干线转接驳巴士哪条线换乘更顺畅？</title>
+      <link>https://huling1215.github.io/guides/tokyo-shinkansen-to-naeba-nozawa-hakuba-guide/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/tokyo-shinkansen-to-naeba-nozawa-hakuba-guide/</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <description>带娃或短假期选苗场换乘更省力：东京乘上越新干线75分钟到越后汤泽转巴士42分钟直抵酒店；去野泽经饭山约2.3小时；去白马经长野约3小时。</description>
+    </item>
+    <item>
+      <title>长白山万达、吉林北大湖与崇礼太舞怎么选？各自适合几天假期？</title>
+      <link>https://huling1215.github.io/guides/changbaishan-vs-beidahu-vs-chongli/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/changbaishan-vs-beidahu-vs-chongli/</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <description>周末2至3天短假选京张高铁50分钟直达的崇礼太舞；带老人小孩泡汤度假选4天3晚长白山万达；专注870米落差刷道进阶选4至5天吉林北大湖。</description>
+    </item>
+    <item>
+      <title>带家人去北海道滑雪：二世谷、留寿都与星野Tomamu核心差异在哪？</title>
+      <link>https://huling1215.github.io/guides/hokkaido-niseko-vs-rusutsu-vs-tomamu/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/hokkaido-niseko-vs-rusutsu-vs-tomamu/</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <description>重度滑雪与逛温泉餐厅选四山连通的二世谷；追求清静白桦林粉雪与馆内直通缆车选留寿都；兼顾低龄幼童恒温造浪池与爱丝冰城选星野Tomamu。</description>
+    </item>
+    <item>
+      <title>新千岁机场航班晚点赶不上末班雪场巴士，怎么去二世谷或留寿都？</title>
+      <link>https://huling1215.github.io/guides/new-chitose-late-flight-niseko-rusutsu-transfer/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/new-chitose-late-flight-niseko-rusutsu-transfer/</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <description>错过直达巴士可按人数选三条路：去二世谷乘JR经小樽至俱知安约3.5小时；4人以上包车单程4.2万日元起；去留寿都住札幌站次日8:00乘车。</description>
+    </item>
+    <item>
+      <title>日本北海道与长野粉雪季几月出发雪况更稳、怎么衔接交通？</title>
+      <link>https://huling1215.github.io/guides/japan-powder-season-timing-and-transport-guide/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/japan-powder-season-timing-and-transport-guide/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 GMT</pubDate>
+      <description>追求高频干冷新雪优先锁定1月上旬至2月中旬；兼顾晴天山景与温和体感可选2月下旬至3月中旬。北海道走新千岁机场预约巴士，长野走东京新干线转白马快巴。</description>
+    </item>
+    <item>
+      <title>带孩子去滑进滑出雪场需要准备哪些装备与托管手续？</title>
+      <link>https://huling1215.github.io/guides/family-ski-packing-and-kids-club-checklist/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/family-ski-packing-and-kids-club-checklist/</guid>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate>
+      <description>儿童硬装备（雪板、雪鞋、头盔）直接在雪场按身高体重现配租赁，家长重点自备排汗速干内层、防雾雪镜与两副防水手套，并提前核对托管营年龄与过敏登记。</description>
+    </item>
+    <item>
+      <title>初次住滑去吉林北大湖还是北海道二世谷？</title>
+      <link>https://huling1215.github.io/guides/how-to-choose-first-ski-resort-china-japan/</link>
+      <guid isPermaLink="true">https://huling1215.github.io/guides/how-to-choose-first-ski-resort-china-japan/</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <description>假期在4至5天、侧重高密度中文教学与控制总预算时选吉林北大湖；假期在6天以上、已能滑行蓝道且看重天然粉雪与温泉小镇氛围时选北海道二世谷。</description>
+    </item>
+  </channel>
+</rss>

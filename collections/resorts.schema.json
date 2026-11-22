@@ -1,0 +1,454 @@
+{
+  "$ref": "#/definitions/resorts",
+  "definitions": {
+    "resorts": {
+      "type": "object",
+      "properties": {
+        "slug": {
+          "type": "string",
+          "minLength": 1
+        },
+        "status": {
+          "type": "string",
+          "enum": [
+            "published",
+            "offline"
+          ],
+          "default": "published"
+        },
+        "sourceType": {
+          "type": "string",
+          "enum": [
+            "editorial",
+            "api",
+            "sync",
+            "ai"
+          ],
+          "default": "editorial"
+        },
+        "sample": {
+          "type": "boolean"
+        },
+        "verification": {
+          "type": "object",
+          "properties": {
+            "verifiedBy": {
+              "type": "string",
+              "minLength": 1
+            },
+            "verifiedAt": {
+              "type": "string",
+              "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+              "errorMessage": {
+                "pattern": "日期格式必须为 YYYY-MM-DD"
+              }
+            },
+            "source": {
+              "type": "object",
+              "properties": {
+                "zh-CN": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "en": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "zh-Hant": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "ja": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "ko": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              },
+              "additionalProperties": false
+            },
+            "sourceUrl": {
+              "type": "string",
+              "format": "uri"
+            }
+          },
+          "required": [
+            "verifiedBy",
+            "verifiedAt",
+            "source"
+          ],
+          "additionalProperties": false
+        },
+        "updatedAt": {
+          "$ref": "#/definitions/resorts/properties/verification/properties/verifiedAt"
+        },
+        "translations": {
+          "type": "object",
+          "properties": {
+            "zh-CN": {
+              "type": "string",
+              "enum": [
+                "source",
+                "machine",
+                "reviewed"
+              ]
+            },
+            "en": {
+              "type": "string",
+              "enum": [
+                "source",
+                "machine",
+                "reviewed"
+              ]
+            },
+            "zh-Hant": {
+              "type": "string",
+              "enum": [
+                "source",
+                "machine",
+                "reviewed"
+              ]
+            },
+            "ja": {
+              "type": "string",
+              "enum": [
+                "source",
+                "machine",
+                "reviewed"
+              ]
+            },
+            "ko": {
+              "type": "string",
+              "enum": [
+                "source",
+                "machine",
+                "reviewed"
+              ]
+            }
+          },
+          "additionalProperties": false
+        },
+        "country": {
+          "type": "string",
+          "enum": [
+            "china",
+            "japan",
+            "korea",
+            "kazakhstan",
+            "switzerland",
+            "france",
+            "austria",
+            "italy",
+            "canada",
+            "usa",
+            "new-zealand",
+            "australia",
+            "chile"
+          ]
+        },
+        "region": {
+          "type": "string",
+          "minLength": 1,
+          "pattern": "^[a-z0-9-]+$"
+        },
+        "regionName": {
+          "$ref": "#/definitions/resorts/properties/verification/properties/source"
+        },
+        "name": {
+          "$ref": "#/definitions/resorts/properties/verification/properties/source"
+        },
+        "summary": {
+          "$ref": "#/definitions/resorts/properties/verification/properties/source"
+        },
+        "coords": {
+          "type": "object",
+          "properties": {
+            "lat": {
+              "type": "number",
+              "minimum": -90,
+              "maximum": 90
+            },
+            "lng": {
+              "type": "number",
+              "minimum": -180,
+              "maximum": 180
+            }
+          },
+          "required": [
+            "lat",
+            "lng"
+          ],
+          "additionalProperties": false
+        },
+        "season": {
+          "type": "object",
+          "properties": {
+            "open": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 12
+            },
+            "close": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 12
+            }
+          },
+          "required": [
+            "open",
+            "close"
+          ],
+          "additionalProperties": false
+        },
+        "stats": {
+          "type": "object",
+          "properties": {
+            "topM": {
+              "type": "integer"
+            },
+            "baseM": {
+              "type": "integer"
+            },
+            "verticalM": {
+              "type": "integer"
+            },
+            "runs": {
+              "type": "integer",
+              "exclusiveMinimum": 0
+            },
+            "lifts": {
+              "type": "integer",
+              "exclusiveMinimum": 0
+            },
+            "longestRunKm": {
+              "type": "number",
+              "exclusiveMinimum": 0
+            }
+          },
+          "required": [
+            "topM",
+            "baseM",
+            "verticalM",
+            "runs",
+            "lifts",
+            "longestRunKm"
+          ],
+          "additionalProperties": false
+        },
+        "difficulty": {
+          "type": "object",
+          "properties": {
+            "green": {
+              "type": "number",
+              "minimum": 0,
+              "maximum": 100
+            },
+            "blue": {
+              "type": "number",
+              "minimum": 0,
+              "maximum": 100
+            },
+            "black": {
+              "type": "number",
+              "minimum": 0,
+              "maximum": 100
+            }
+          },
+          "required": [
+            "green",
+            "blue",
+            "black"
+          ],
+          "additionalProperties": false
+        },
+        "access": {
+          "type": "object",
+          "properties": {
+            "airport": {
+              "type": "object",
+              "properties": {
+                "name": {
+                  "$ref": "#/definitions/resorts/properties/verification/properties/source"
+                },
+                "distanceKm": {
+                  "type": "number",
+                  "minimum": 0
+                },
+                "durationMin": {
+                  "type": "integer",
+                  "exclusiveMinimum": 0
+                }
+              },
+              "required": [
+                "name",
+                "distanceKm",
+                "durationMin"
+              ],
+              "additionalProperties": false
+            },
+            "rail": {
+              "$ref": "#/definitions/resorts/properties/access/properties/airport"
+            }
+          },
+          "required": [
+            "airport"
+          ],
+          "additionalProperties": false
+        },
+        "highlights": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/resorts/properties/verification/properties/source"
+          },
+          "maxItems": 4
+        },
+        "familyNote": {
+          "$ref": "#/definitions/resorts/properties/verification/properties/source"
+        },
+        "beginnerNote": {
+          "$ref": "#/definitions/resorts/properties/verification/properties/source"
+        },
+        "faq": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "q": {
+                "$ref": "#/definitions/resorts/properties/verification/properties/source"
+              },
+              "a": {
+                "$ref": "#/definitions/resorts/properties/verification/properties/source"
+              }
+            },
+            "required": [
+              "q",
+              "a"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "cover": {
+          "type": "string"
+        },
+        "gallery": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "featured": {
+          "type": "boolean",
+          "default": false
+        },
+        "website": {
+          "type": "string",
+          "format": "uri"
+        },
+        "passes": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "ikon",
+              "epic",
+              "mountain-collective",
+              "dolomiti-superski",
+              "ski-arlberg",
+              "other"
+            ]
+          }
+        },
+        "liftTicket": {
+          "type": "object",
+          "properties": {
+            "adultDayCny": {
+              "type": "number",
+              "exclusiveMinimum": 0
+            },
+            "childDayCny": {
+              "type": "number",
+              "minimum": 0
+            },
+            "priceSyncedAt": {
+              "type": "string",
+              "pattern": "^\\d{4}-\\d{2}-\\d{2}(T\\d{2}:\\d{2}(:\\d{2}(\\.\\d+)?)?(Z|[+-]\\d{2}:\\d{2})?)?$",
+              "errorMessage": {
+                "pattern": "同步时间格式必须为 YYYY-MM-DD 或 ISO 时间戳"
+              }
+            }
+          },
+          "required": [
+            "priceSyncedAt"
+          ],
+          "additionalProperties": false
+        },
+        "snowStatus": {
+          "type": "object",
+          "properties": {
+            "state": {
+              "type": "string",
+              "enum": [
+                "open",
+                "partial",
+                "closed",
+                "preseason"
+              ]
+            },
+            "openRuns": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "baseDepthCm": {
+              "type": "number",
+              "minimum": 0
+            },
+            "updatedAt": {
+              "$ref": "#/definitions/resorts/properties/verification/properties/verifiedAt"
+            }
+          },
+          "required": [
+            "state",
+            "updatedAt"
+          ],
+          "additionalProperties": false
+        },
+        "pisteMapUrl": {
+          "type": "string",
+          "format": "uri"
+        },
+        "nightSkiing": {
+          "type": "boolean"
+        },
+        "terrainPark": {
+          "type": "boolean"
+        },
+        "$schema": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "slug",
+        "sample",
+        "verification",
+        "updatedAt",
+        "country",
+        "region",
+        "regionName",
+        "name",
+        "summary",
+        "coords",
+        "season",
+        "stats",
+        "difficulty",
+        "access",
+        "highlights",
+        "faq"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}

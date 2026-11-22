@@ -1,0 +1,276 @@
+{
+  "$ref": "#/definitions/guides",
+  "definitions": {
+    "guides": {
+      "type": "object",
+      "properties": {
+        "slug": {
+          "type": "string",
+          "minLength": 1
+        },
+        "status": {
+          "type": "string",
+          "enum": [
+            "published",
+            "offline"
+          ],
+          "default": "published"
+        },
+        "sourceType": {
+          "type": "string",
+          "enum": [
+            "editorial",
+            "api",
+            "sync",
+            "ai"
+          ],
+          "default": "editorial"
+        },
+        "sample": {
+          "type": "boolean"
+        },
+        "verification": {
+          "type": "object",
+          "properties": {
+            "verifiedBy": {
+              "type": "string",
+              "minLength": 1
+            },
+            "verifiedAt": {
+              "type": "string",
+              "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+              "errorMessage": {
+                "pattern": "日期格式必须为 YYYY-MM-DD"
+              }
+            },
+            "source": {
+              "type": "object",
+              "properties": {
+                "zh-CN": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "en": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "zh-Hant": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "ja": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "ko": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              },
+              "additionalProperties": false
+            },
+            "sourceUrl": {
+              "type": "string",
+              "format": "uri"
+            }
+          },
+          "required": [
+            "verifiedBy",
+            "verifiedAt",
+            "source"
+          ],
+          "additionalProperties": false
+        },
+        "updatedAt": {
+          "$ref": "#/definitions/guides/properties/verification/properties/verifiedAt"
+        },
+        "translations": {
+          "type": "object",
+          "properties": {
+            "zh-CN": {
+              "type": "string",
+              "enum": [
+                "source",
+                "machine",
+                "reviewed"
+              ]
+            },
+            "en": {
+              "type": "string",
+              "enum": [
+                "source",
+                "machine",
+                "reviewed"
+              ]
+            },
+            "zh-Hant": {
+              "type": "string",
+              "enum": [
+                "source",
+                "machine",
+                "reviewed"
+              ]
+            },
+            "ja": {
+              "type": "string",
+              "enum": [
+                "source",
+                "machine",
+                "reviewed"
+              ]
+            },
+            "ko": {
+              "type": "string",
+              "enum": [
+                "source",
+                "machine",
+                "reviewed"
+              ]
+            }
+          },
+          "additionalProperties": false
+        },
+        "title": {
+          "$ref": "#/definitions/guides/properties/verification/properties/source"
+        },
+        "directAnswer": {
+          "$ref": "#/definitions/guides/properties/verification/properties/source"
+        },
+        "author": {
+          "type": "string",
+          "minLength": 1
+        },
+        "publishedAt": {
+          "$ref": "#/definitions/guides/properties/verification/properties/verifiedAt"
+        },
+        "sections": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "heading": {
+                "$ref": "#/definitions/guides/properties/verification/properties/source"
+              },
+              "body": {
+                "$ref": "#/definitions/guides/properties/verification/properties/source"
+              },
+              "bullets": {
+                "type": "array",
+                "items": {
+                  "$ref": "#/definitions/guides/properties/verification/properties/source"
+                }
+              },
+              "table": {
+                "type": "object",
+                "properties": {
+                  "caption": {
+                    "$ref": "#/definitions/guides/properties/verification/properties/source"
+                  },
+                  "columns": {
+                    "type": "array",
+                    "items": {
+                      "$ref": "#/definitions/guides/properties/verification/properties/source"
+                    },
+                    "minItems": 1
+                  },
+                  "rows": {
+                    "type": "array",
+                    "items": {
+                      "type": "array",
+                      "items": {
+                        "$ref": "#/definitions/guides/properties/verification/properties/source"
+                      }
+                    }
+                  }
+                },
+                "required": [
+                  "caption",
+                  "columns",
+                  "rows"
+                ],
+                "additionalProperties": false
+              },
+              "steps": {
+                "type": "array",
+                "items": {
+                  "anyOf": [
+                    {
+                      "$ref": "#/definitions/guides/properties/verification/properties/source"
+                    },
+                    {
+                      "type": "object",
+                      "properties": {
+                        "title": {
+                          "$ref": "#/definitions/guides/properties/verification/properties/source"
+                        },
+                        "body": {
+                          "$ref": "#/definitions/guides/properties/verification/properties/source"
+                        }
+                      },
+                      "required": [
+                        "title"
+                      ],
+                      "additionalProperties": false
+                    }
+                  ]
+                },
+                "minItems": 1
+              }
+            },
+            "required": [
+              "heading",
+              "body"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "faq": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "q": {
+                "$ref": "#/definitions/guides/properties/verification/properties/source"
+              },
+              "a": {
+                "$ref": "#/definitions/guides/properties/verification/properties/source"
+              }
+            },
+            "required": [
+              "q",
+              "a"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "relatedIds": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "cover": {
+          "type": "string"
+        },
+        "$schema": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "slug",
+        "sample",
+        "verification",
+        "updatedAt",
+        "title",
+        "directAnswer",
+        "author",
+        "publishedAt",
+        "sections",
+        "faq"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}

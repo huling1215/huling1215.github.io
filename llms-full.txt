@@ -1,0 +1,399 @@
+# 雪迹 PowderClub — 全量目录清单 / Complete Catalog Reference (llms-full.txt)
+
+> 站点根地址 / Canonical Origin: https://huling1215.github.io
+> 精简索引 / Concise Index: https://huling1215.github.io/llms.txt
+> 多语言站点地图 / Sitemap Index: https://huling1215.github.io/sitemap-index.xml
+
+## 1. 品牌与核验原则 / Brand & Verification Policy
+- **定位**：雪迹（PowderClub）收录全球主要雪场参数、滑进滑出酒店、分级住滑套餐与实测问答攻略。
+- **原则**：不编造评分，不做跨语言静默回退，所有价格基准为 CNY 人民币。
+
+## 2. 全部滑雪场 / All Ski Resorts (43)
+- **北大湖滑雪度假区 / Beidahu Ski Resort** (`china/jilin` · Top 1405m / Drop 870m / 64 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/china/jilin/beidahu/ | en: https://huling1215.github.io/en/resorts/china/jilin/beidahu/
+  - 摘要 (zh-CN): 位于吉林省永吉县五里河镇，山体落差870米，开放64条雪道与11条缆车。冬季静风率高、粉雪干爽稳定，山脚汇集多栋滑进滑出酒店与儿童托管营地。
+  - Summary (en): Set in Yongji County, Jilin with an 870 m vertical drop across 64 runs and 11 lifts. Calm winter winds preserve dry snow, paired with base-area ski-in/ski-out hotels and a dedicated kids camp.
+- **瓦纳卡卡德罗纳高山度假村 / Cardrona Alpine Resort** (`new-zealand/otago` · Top 1860m / Drop 600m / 45 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/new-zealand/otago/cardrona-wanaka/ | en: https://huling1215.github.io/en/resorts/new-zealand/otago/cardrona-wanaka/
+  - 摘要 (zh-CN): 坐落于新西兰南岛瓦纳卡与皇后镇之间，每年6至10月开启南半球反季雪季。山顶海拔1860米、落差600米，涵盖开阔高山碗区、Soho扩建雪域与地形公园。
+  - Summary (en): Set between Wānaka and Queenstown for Southern Hemisphere winter skiing from June to October, pairing an 1,860 m summit and 600 m vertical drop with wide alpine basins, Soho Basin terrain, and progressive parks.
+- **长白山万达国际度假区 / Changbaishan Wanda International Resort** (`china/jilin` · Top 1210m / Drop 395m / 43 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/china/jilin/changbaishan-wanda/ | en: https://huling1215.github.io/en/resorts/china/jilin/changbaishan-wanda/
+  - 摘要 (zh-CN): 位于吉林省白山市抚松县北纬41度三面环山谷地，山顶海拔1210米，落差395米，开放43条雪道与7条索道，汇集滑进滑出酒店群与火山矿物质温泉。
+  - Summary (en): Sheltered in a three-sided valley at 41°N in Fusong County, Jilin, reaching 1,210 m with a 395 m vertical drop across 43 runs and 7 lifts, paired with ski-in/ski-out hotels and volcanic hot springs.
+- **崇礼太舞滑雪小镇 / Thaiwoo Ski Resort** (`china/hebei` · Top 2160m / Drop 510m / 31 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/china/hebei/chongli-thaiwoo/ | en: https://huling1215.github.io/en/resorts/china/hebei/chongli-thaiwoo/
+  - 摘要 (zh-CN): 坐落于河北张家口崇礼玉石梁主峰北麓，山顶海拔2160米，垂直落差510米，设31条雪道与6条高速缆车，距京张高铁太子城站3公里，接驳车10分钟直达。
+  - Summary (en): Set on the north face of 2,160 m Mt. Yushiliang in Chongli, Hebei with a 510 m vertical drop, 31 runs, and 6 high-speed lifts—just 3 km and a 10-minute complimentary shuttle from Taizicheng HSR Station.
+- **高雪维尔与三峡谷 / Courchevel · Les 3 Vallées** (`france/savoie` · Top 3230m / Drop 2130m / 339 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/france/savoie/courchevel-3-vallees/ | en: https://huling1215.github.io/en/resorts/france/savoie/courchevel-3-vallees/
+  - 摘要 (zh-CN): 串联高雪维尔、梅里贝尔与葱仁谷等雪区，形成总长约600公里的无缝滑行雪道网，缆车高点达3230米。阶梯式分布海拔1100至1850米多个住滑村落。
+  - Summary (en): Uniting Courchevel, Méribel, and Val Thorens across 600 km of ski-linked pistes reaching 3,230 m, anchored by stepped ski-in/ski-out villages spanning 1,100 m to 1,850 m in Savoie.
+- **禾木吉克普林国际滑雪度假区 / Hemu Jikepulin International Ski Resort** (`china/xinjiang` · Top 2848m / Drop 1466m / 103 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/china/xinjiang/hemu-jikepulin/ | en: https://huling1215.github.io/en/resorts/china/xinjiang/hemu-jikepulin/
+  - 摘要 (zh-CN): 位于新疆阿勒泰布尔津县禾木乡，主峰云霄峰海拔2848米，底站1382米，垂直落差1466米，规划103条雪道与8条高速缆车，高山干粉雪充沛。
+  - Summary (en): Located in Hemu Township, Burqin County, Altay, descending from 2,848 m Yunxiao Peak to a 1,382 m base for a 1,466 m vertical drop across 103 trails and 8 high-speed lifts with dry alpine powder.
+- **星野 Tomamu 滑雪场 / Hoshino Resorts Tomamu** (`japan/hokkaido` · Top 1239m / Drop 699m / 29 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/japan/hokkaido/hoshino-tomamu/ | en: https://huling1215.github.io/en/resorts/japan/hokkaido/hoshino-tomamu/
+  - 摘要 (zh-CN): 地处北海道占冠村内陆粉雪带，山顶海拔1239米、落差699米，设29条雪道。兼具雾冰观景台、爱丝冰城与室内恒温造浪池，乘JR特急列车抵站后接驳即达。
+  - Summary (en): Positioned in Shimukappu's cold inland powder belt with a 1,239 m peak, 699 m vertical drop, and 29 runs. Pairs dry snow with the Terrace of Frost Tree, Ice Village, Mina-Mina wave pool, and direct JR Limited Express rail access.
+- **可可托海国际滑雪度假区 / Keketuohai International Ski Resort** (`china/xinjiang` · Top 3100m / Drop 1200m / 23 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/china/xinjiang/keketuohai/ | en: https://huling1215.github.io/en/resorts/china/xinjiang/keketuohai/
+  - 摘要 (zh-CN): 坐落于新疆富蕴县阿尔泰山宝石沟，雪季横跨10月至次年5月，山体落差1200米。高海拔天然降雪充沛，9公里宝石大道与丰富道外地形适合进阶雪友。
+  - Summary (en): Tucked into Baoshigou Valley in Fuyun County, Xinjiang, offering a 1,200 m vertical drop and an October-to-May season. Abundant high-altitude snowfall and a 9 km cruiser suit progressing powder riders.
+- **二世谷联合雪场 / Niseko United** (`japan/hokkaido` · Top 1200m / Drop 940m / 70 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/japan/hokkaido/niseko-united/ | en: https://huling1215.github.io/en/resorts/japan/hokkaido/niseko-united/
+  - 摘要 (zh-CN): 由比罗夫、花园、二世谷村与安努普利四大雪区山顶互联组成，落差940米。受日本海冷流影响降雪丰厚绵密，夜滑照明充沛，多语种教学与温泉住滑成熟。
+  - Summary (en): Linking Grand Hirafu, Hanazono, Niseko Village, and Annupuri across one peak with a 940 m vertical drop. Sea of Japan storms deliver frequent dry powder alongside expansive night skiing and onsen lodges.
+- **留寿都度假村 / Rusutsu Resort** (`japan/hokkaido` · Top 994m / Drop 594m / 37 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/japan/hokkaido/rusutsu/ | en: https://huling1215.github.io/en/resorts/japan/hokkaido/rusutsu/
+  - 摘要 (zh-CN): 由西山、东山与伊索拉三座山峰串联而成，山顶海拔994米、落差594米，开放37条雪道与18条缆车。林间粉雪充沛，新千岁机场乘直达巴士约120分钟可达。
+  - Summary (en): Spanning West Mountain, East Mountain, and Mt. Isola with a 994 m summit, 594 m vertical drop, 37 runs, and 18 lifts. Renowned for sheltered birch tree powder and direct 120-minute Resort Liner buses from New Chitose Airport.
+- **圣莫里茨科尔维利亚雪区 / St. Moritz Corviglia** (`switzerland/graubunden` · Top 3057m / Drop 1337m / 36 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/switzerland/graubunden/st-moritz-corviglia/ | en: https://huling1215.github.io/en/resorts/switzerland/graubunden/st-moritz-corviglia/
+  - 摘要 (zh-CN): 背靠上恩加丁阳光谷地，从 1720 米小镇延伸至 3057 米 Piz Nair 峰顶，拥有 155 公里精细压雪大道与多届冬奥高山赛道，日照充足。
+  - Summary (en): Crowning the sunny Upper Engadin valley from 1,720 m to 3,057 m Piz Nair, Corviglia delivers 155 km of broad, sun-drenched pistes and Olympic downhill runs.
+- **韦尔比耶与四峡谷 / Verbier · 4 Vallées** (`switzerland/valais` · Top 3330m / Drop 1830m / 92 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/switzerland/valais/verbier-4-vallees/ | en: https://huling1215.github.io/en/resorts/switzerland/valais/verbier-4-vallees/
+  - 摘要 (zh-CN): 瑞士境内规模较大的互联滑雪区，串联韦尔比耶、Nendaz 与 Veysonnaz，海拔攀升至 3330 米 Mont Fort 冰川，坐拥 410 公里雪道与野雪路线。
+  - Summary (en): Switzerland's expansive interconnected ski domain linking Verbier, Nendaz, and Veysonnaz up to the 3,330 m Mont Fort glacier across 410 km of pistes and freeride itineraries.
+- **惠斯勒黑梳山滑雪度假村 / Whistler Blackcomb** (`canada/british-columbia` · Top 2284m / Drop 1609m / 200 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/canada/british-columbia/whistler-blackcomb/ | en: https://huling1215.github.io/en/resorts/canada/british-columbia/whistler-blackcomb/
+  - 摘要 (zh-CN): 由惠斯勒山与黑梳山双峰并立组成，借Peak 2 Peak跨谷吊厢空中互联，垂直落差1609米，设逾200条雪道与长达11公里的连贯滑降线，属Epic体系。
+  - Summary (en): Pairing side-by-side Whistler and Blackcomb mountains via the Peak 2 Peak Gondola across a 1,609 m vertical drop, over 200 marked trails, and an 11 km continuous run on the Epic Pass network.
+- **龙平滑雪度假村 / Yongpyong Resort** (`korea/gangwon` · Top 1458m / Drop 758m / 28 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/korea/gangwon/yongpyong/ | en: https://huling1215.github.io/en/resorts/korea/gangwon/yongpyong/
+  - 摘要 (zh-CN): 位于韩国江原道平昌郡大关岭，山体落差758米，开放28条雪道与14条缆车。曾承办大型高山滑雪赛事，乘KTX高铁抵珍富站后约20分钟即可接驳进山。
+  - Summary (en): Set on Daegwallyeong Ridge in Pyeongchang, Gangwon Province, offering a 758 m vertical drop across 28 runs and 14 lifts. Former international alpine racing venue situated roughly 20 minutes from Jinbu KTX Station.
+- **采尔马特马特洪峰滑雪天堂 / Zermatt Matterhorn Ski Paradise** (`switzerland/valais` · Top 3883m / Drop 2263m / 145 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/switzerland/valais/zermatt/ | en: https://huling1215.github.io/en/resorts/switzerland/valais/zermatt/
+  - 摘要 (zh-CN): 依托海拔3883米的小马特洪峰冰川缆车站，拥有2263米垂直落差与360公里瑞意跨国互联雪道。全镇禁行燃油车，可从苏黎世或日内瓦乘火车直抵山脚。
+  - Summary (en): Anchored by the 3,883 m Klein Matterhorn glacier station, delivering a 2,263 m vertical drop across 360 km of linked Swiss-Italian pistes above a car-free village reached directly by SBB and MGB rail.
+- **塔尔加尔 Ak-Bulak 高山滑雪场 / Ak-Bulak Alpine Resort** (`kazakhstan/almaty` · Top 2664m / Drop 1032m / 11 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/kazakhstan/almaty/ak-bulak/ | en: https://huling1215.github.io/en/resorts/kazakhstan/almaty/ak-bulak/
+  - 摘要 (zh-CN): 坐落于阿拉木图以东塔尔加尔山麓，海拔 1632 米直上 2664 米，拥有超过 1000 米垂直落差与开阔野雪树林道，人流较市区雪场更清静。
+  - Summary (en): Set in the Trans-Ili foothills near Talgar east of Almaty, rising from 1,632 m to 2,664 m with over 1,000 m of vertical drop, steep freeride bowls, and uncrowded slopes.
+- **阿斯本雪堆山滑雪度假村 / Aspen Snowmass** (`usa/colorado` · Top 3813m / Drop 1343m / 362 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/usa/colorado/aspen-snowmass/ | en: https://huling1215.github.io/en/resorts/usa/colorado/aspen-snowmass/
+  - 摘要 (zh-CN): 一票通滑雪堆山、阿斯本山、高地山与奶油山四座洛基山脉雪区，主峰Cirque海拔3813米、落差1343米，距阿斯本机场约15分钟车程，属Ikon体系。
+  - Summary (en): Uniting Snowmass, Aspen Mountain, Aspen Highlands, and Buttermilk on one lift ticket with a 3,813 m Cirque summit, 1,343 m vertical drop, 15-minute airport transfers, and Ikon Pass access.
+- **班夫阳光村滑雪场 / Banff Sunshine Village** (`canada/alberta` · Top 2730m / Drop 1070m / 137 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/canada/alberta/banff-sunshine-village/ | en: https://huling1215.github.io/en/resorts/canada/alberta/banff-sunshine-village/
+  - 摘要 (zh-CN): 横跨加拿大落基山脉大陆分水岭，拥有自11月上旬延续至次年5月下旬的漫长纯天然雪季，覆盖Goat's Eye、Lookout与Standish三座山峰，属Ikon及SkiBig3体系。
+  - Summary (en): Straddling the Continental Divide inside Banff National Park with a 7-month natural snow season from November into late May across three peaks on Ikon Pass and SkiBig3.
+- **布勒伊-切尔维尼亚 · 马特洪峰南坡 / Breuil-Cervinia** (`italy/aosta-valley` · Top 3480m / Drop 1430m / 72 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/italy/aosta-valley/cervinia-breuil/ | en: https://huling1215.github.io/en/resorts/italy/aosta-valley/cervinia-breuil/
+  - 摘要 (zh-CN): 位于意大利西北瓦莱达奥斯塔高谷，小镇底座海拔高达2050米，缆车直抵3480米高原罗萨（Plateau Rosa）冰川垭口，与瑞士采尔马特共构360公里瑞意跨国滑雪天堂。
+  - Summary (en): High in Italy's Aosta Valley with a 2,050 m snow-sure village base, rising to 3,480 m at Plateau Rosa to link across the border with Zermatt into the 360 km Matterhorn Ski Paradise.
+- **霞慕尼勃朗峰 / Chamonix-Mont-Blanc** (`france/haute-savoie` · Top 3842m / Drop 2807m / 112 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/france/haute-savoie/chamonix-mont-blanc/ | en: https://huling1215.github.io/en/resorts/france/haute-savoie/chamonix-mont-blanc/
+  - 摘要 (zh-CN): 紧邻海拔4808米勃朗峰脚下的高山运动之都，南针峰缆车直抵3842米冰川观景台，串联布雷文-弗莱热尔、大蒙泰及勒图尔等多片风格迥异的雪区。
+  - Summary (en): Alpine mountaineering capital beneath Mont Blanc, pairing the 3,842 m Aiguille du Midi cable car and Vallée Blanche glacier run with Brévent-Flégère, Grands Montets, and Le Tour.
+- **皇后镇皇冠峰与卓越山雪场 / Coronet Peak & The Remarkables** (`new-zealand/otago` · Top 1943m / Drop 468m / 76 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/new-zealand/otago/coronet-remarkables/ | en: https://huling1215.github.io/en/resorts/new-zealand/otago/coronet-remarkables/
+  - 摘要 (zh-CN): 环绕皇后镇瓦卡蒂普湖的两座NZSki同票雪场，6至9月反季开放。卓越山海拔达1943米坐拥向阳高山碗区，皇冠峰距机场约25至40分钟并设周三周五灯光夜滑。
+  - Summary (en): Pairing Queenstown's two NZSki fields on one pass from June to September, combining The Remarkables' 1,943 m sunny alpine bowls with Coronet Peak's roller-coaster cruisers and floodlit night sessions 25–40 minutes from ZQN Airport.
+- **科尔蒂纳丹佩佐 · 多洛米蒂 / Cortina d'Ampezzo** (`italy/veneto` · Top 3244m / Drop 2020m / 86 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/italy/veneto/cortina-dolomiti/ | en: https://huling1215.github.io/en/resorts/italy/veneto/cortina-dolomiti/
+  - 摘要 (zh-CN): 地处意大利多洛米蒂白云岩群峰环抱之中，托法纳峰缆车直达3244米，落差2020米，本地雪道约120公里并纳入多洛米蒂联票，距威尼斯机场约2小时车程。
+  - Summary (en): Cradled by UNESCO Dolomite spires in Veneto, rising from 1,224 m to 3,244 m on Tofana di Mezzo with a 2,020 m vertical, 120 km of local pistes on the Dolomiti Superski pass, and 2-hour coaches from Venice.
+- **白马八方尾根滑雪场 / Hakuba Happo-One Snow Resort** (`japan/nagano` · Top 1831m / Drop 1071m / 16 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/japan/nagano/hakuba-happo/ | en: https://huling1215.github.io/en/resorts/japan/nagano/hakuba-happo/
+  - 摘要 (zh-CN): 位于长野县北阿尔卑斯山麓，山体落差1071米，连续滑行距离达8公里。曾承办冬奥高山滑降项目，长距离压雪中高级道与白马村天然碱性温泉相得益彰。
+  - Summary (en): Anchoring Nagano's Northern Alps with a 1,071 m vertical drop and an 8 km top-to-bottom run. Former Winter Olympic downhill host pairing sustained groomed cruisers with Hakuba's alkaline hot springs.
+- **High1 滑雪度假村 / High1 Resort** (`korea/gangwon` · Top 1340m / Drop 660m / 18 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/korea/gangwon/high1/ | en: https://huling1215.github.io/en/resorts/korea/gangwon/high1/
+  - 摘要 (zh-CN): 位于韩国江原道旌善郡白云山麓，主峰海拔1340米、落差660米，设18条雪道与3条高速吊厢。拥有山顶直滑4.2公里的宽缓宙斯绿道，适合零基础与家庭进阶。
+  - Summary (en): Set across mountain ridges in Jeongseon, Gangwon State, featuring a 1,340 m main summit, 660 m vertical drop, 18 trails, and three 8-passenger gondolas. Known for its 4.2 km Zeus summit-to-base green cruiser tailored to beginners.
+- **伊施格尔 Silvretta 跨国雪区 / Ischgl · Silvretta Arena** (`austria/tyrol` · Top 2872m / Drop 1495m / 112 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/austria/tyrol/ischgl-silvretta/ | en: https://huling1215.github.io/en/resorts/austria/tyrol/ischgl-silvretta/
+  - 摘要 (zh-CN): 横跨奥地利伊施格尔与瑞士萨姆瑙恩免税村的Silvretta Arena拥有约239公里互联雪道，九成雪道高于海拔2000米，以高速现代缆车、长雪季及热闹雪后派对著称。
+  - Summary (en): Linking Ischgl in Austria with duty-free Samnaun in Switzerland across 239 km of pistes—90% above 2,000 m—renowned for high-speed lifts, long seasons, and vibrant après-ski.
+- **杰克逊霍尔山地度假村 / Jackson Hole Mountain Resort** (`usa/wyoming` · Top 3185m / Drop 1262m / 133 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/usa/wyoming/jackson-hole/ | en: https://huling1215.github.io/en/resorts/usa/wyoming/jackson-hole/
+  - 摘要 (zh-CN): 矗立于提顿山脉南麓，拥有1262米连续垂直落差与标志性百人红色大缆车，半数雪道为高阶陡坡与天然雪沟，山脚提顿村距机场仅35分钟，属Ikon体系。
+  - Summary (en): Rising 1,262 vertical meters in Wyoming's Teton Range with an iconic 100-passenger Aerial Tram, 50% expert chutes and bowls, and 35-minute JAC airport transfers on Ikon Pass.
+- **基茨比厄尔 KitzSki / Kitzbühel · KitzSki** (`austria/tyrol` · Top 2000m / Drop 1200m / 114 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/austria/tyrol/kitzbuhel/ | en: https://huling1215.github.io/en/resorts/austria/tyrol/kitzbuhel/
+  - 摘要 (zh-CN): 拥有七百年历史的中世纪彩绘山城与传奇哈嫩卡姆世界杯速降赛道，KitzSki串联基茨比厄尔至帕斯图恩共约233公里雪道及野雪线，因斯布鲁克与慕尼黑铁路直达镇中心。
+  - Summary (en): Pairing a 700-year-old pastel Tyrolean town with the famed Hahnenkamm Streif downhill course, KitzSki links 233 km of pistes and ski routes with rail stations steps from the lifts.
+- **路易斯湖滑雪度假村 / Lake Louise Ski Resort** (`canada/alberta` · Top 2637m / Drop 991m / 171 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/canada/alberta/lake-louise-ski-resort/ | en: https://huling1215.github.io/en/resorts/canada/alberta/lake-louise-ski-resort/
+  - 摘要 (zh-CN): 拥有4200英亩开阔雪域与171条雪道，正对维多利亚冰川与路易斯湖群峰全景，前山压雪巡航道与后山Back Bowls粉雪碗区兼备，属Ikon及SkiBig3体系。
+  - Summary (en): Spanning 4,200 acres and 171 trails facing Victoria Glacier in Banff National Park, pairing scenic front-side cruisers with expansive Back Bowls on Ikon Pass and SkiBig3.
+- **莱赫-楚尔斯 Ski Arlberg / Lech Zürs · Ski Arlberg** (`austria/vorarlberg` · Top 2811m / Drop 1361m / 131 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/austria/vorarlberg/lech-zurs-arlberg/ | en: https://huling1215.github.io/en/resorts/austria/vorarlberg/lech-zurs-arlberg/
+  - 摘要 (zh-CN): 地处福拉尔贝格州高雪量迎风坡，与圣安东共同组成305公里Ski Arlberg互联雪域及200公里野雪线。以优雅皇室度假氛围、无车上莱赫与22公里白环巡航闻名。
+  - Summary (en): Set on Vorarlberg's snow-catching slopes within the 305 km Ski Arlberg network, pairing refined chalet hospitality and car-free Oberlech with the iconic 22 km White Ring circuit.
+- **莱萨尔克 · Paradiski / Les Arcs · Paradiski** (`france/savoie` · Top 3226m / Drop 2026m / 260 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/france/savoie/les-arcs-paradiski/ | en: https://huling1215.github.io/en/resorts/france/savoie/les-arcs-paradiski/
+  - 摘要 (zh-CN): 由双层瓦努瓦斯空中大缆车将莱萨尔克与拉普拉涅连成约425公里Paradiski雪域，七成雪道位于海拔2000米以上，山脚火车站7分钟缆索铁道直达雪场。
+  - Summary (en): Joined with La Plagne via the double-decker Vanoise Express to form the 425 km Paradiski domain, with 70% of runs above 2,000 m and a 7-minute funicular straight from the TGV station.
+- **马东纳-迪坎皮利奥 · 布伦塔 / Madonna di Campiglio** (`italy/trentino` · Top 2504m / Drop 954m / 100 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/italy/trentino/madonna-di-campiglio/ | en: https://huling1215.github.io/en/resorts/italy/trentino/madonna-di-campiglio/
+  - 摘要 (zh-CN): 位于特伦蒂诺大区布伦塔多洛米蒂山脉西侧，依托1550米无车步行中心，与平佐洛、福尔加里达-马里莱瓦串联成150公里连续滑行雪区，归属Skirama Dolomiti联票体系。
+  - Summary (en): Nestled beneath the Brenta Dolomites in Trentino at 1,550 m, linking Madonna di Campiglio, Pinzolo, and Folgarida-Marilleva across 150 km of continuous pistes within the Skirama Dolomiti pass network.
+- **坎特伯雷哈特山滑雪场 / Mt Hutt Ski Area** (`new-zealand/canterbury` · Top 2086m / Drop 683m / 35 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/new-zealand/canterbury/mt-hutt/ | en: https://huling1215.github.io/en/resorts/new-zealand/canterbury/mt-hutt/
+  - 摘要 (zh-CN): 耸立于新西兰南岛坎特伯雷平原西缘，山顶海拔2086米、垂直落差683米，距基督城国际机场仅约90分钟车程。凭借高海拔与200余台造雪机加持，雪季长且宽阔高山碗区对各水平雪友均具吸引力。
+  - Summary (en): Towering above the Canterbury Plains with a 2,086 m summit and 683 m vertical drop just 90 minutes from Christchurch Airport, Mt Hutt pairs high-altitude snow reliability with wide open bowls and 5 lifts across 365 hectares.
+- **苗场滑雪场 / Naeba Ski Resort** (`japan/niigata` · Top 1789m / Drop 889m / 24 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/japan/niigata/naeba/ | en: https://huling1215.github.io/en/resorts/japan/niigata/naeba/
+  - 摘要 (zh-CN): 背靠新潟汤泽笋山，海拔1789米、落差889米，设24条雪道。借5.5公里龙缆车与神乐雪区互联，乘上越新干线抵越后汤泽站换乘巴士约45分钟可达。
+  - Summary (en): Anchored beneath 1,789 m Mt. Takenoko in Yuzawa with an 889 m vertical drop and 24 runs. Linked to Kagura via the 5.5 km Dragondola and reachable from Tokyo via Joetsu Shinkansen to Echigo-Yuzawa plus a 45-minute bus ride.
+- **阿拉木图 Oi-Qaragai 山地度假村 / Oi-Qaragai Mountain Resort** (`kazakhstan/almaty` · Top 2140m / Drop 590m / 26 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/kazakhstan/almaty/oi-qaragai/ | en: https://huling1215.github.io/en/resorts/kazakhstan/almaty/oi-qaragai/
+  - 摘要 (zh-CN): 位于阿拉木图东郊天山松林峡谷，扩展 Aqtas 新区后海拔由 1550 米升至 2140 米，拥有 26 条雪道与 10 人座吊厢，适合亲子初学与森林度假。
+  - Summary (en): Tucked inside a pine gorge east of Almaty, climbing from 1,550 m to 2,140 m across its expanded Aqtas sector with 26 runs, a 10-seat gondola, and family-oriented forest lodges.
+- **帕克城山地度假村 / Park City Mountain** (`usa/utah` · Top 3056m / Drop 984m / 348 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/usa/utah/park-city-mountain/ | en: https://huling1215.github.io/en/resorts/usa/utah/park-city-mountain/
+  - 摘要 (zh-CN): 拥有7300英亩庞大可滑面积与340余条雪道，通过Quicksilver跨山吊厢串联帕克城主村与峡谷村两大基地，距盐湖城机场仅40分钟车程，属Epic体系。
+  - Summary (en): Spanning 7,300 skiable acres and 340+ trails linked by the Quicksilver Gondola between Historic Main Street and Canyons Village, just 40 minutes from Salt Lake City Airport on Epic Pass.
+- **平昌凤凰滑雪度假村 / Phoenix Pyeongchang Snow Park** (`korea/gangwon` · Top 1080m / Drop 400m / 18 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/korea/gangwon/phoenix-pyeongchang/ | en: https://huling1215.github.io/en/resorts/korea/gangwon/phoenix-pyeongchang/
+  - 摘要 (zh-CN): 位于韩国江原道平昌郡蓬坪面泰岐山麓，曾作为2018年平昌冬奥会自由式滑雪与单板滑雪赛区。山体落差约400米，开放18条雪道与10条缆车，并设大型Extreme Park地形公园。
+  - Summary (en): Set on Mt. Taegisan in Bongpyeong-myeon, Pyeongchang, Phoenix Snow Park hosted the 2018 Winter Olympic freestyle skiing and snowboarding events. Features a 400 m vertical drop, 18 runs, 10 lifts, and the signature Extreme Park.
+- **阿拉木图琼布拉克滑雪场 / Shymbulak Mountain Resort** (`kazakhstan/almaty` · Top 3200m / Drop 940m / 14 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/kazakhstan/almaty/shymbulak/ | en: https://huling1215.github.io/en/resorts/kazakhstan/almaty/shymbulak/
+  - 摘要 (zh-CN): 坐落于阿拉木图近郊外伊犁阿拉套山脉，从海拔1690米麦迪奥冰场乘吊厢直上2260米中站与3200米塔尔加尔山口。距国际机场约40分钟车程且支持夜滑。
+  - Summary (en): Perched in the Trans-Ili Alatau range outside visa-free Almaty, linking the 1,690 m Medeu gondola portal to the 2,260 m mid-mountain village and 3,200 m Talgar Pass just 40 minutes from Almaty Airport.
+- **圣安东阿尔贝格 / St. Anton am Arlberg** (`austria/tyrol` · Top 2811m / Drop 1507m / 131 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/austria/tyrol/st-anton-arlberg/ | en: https://huling1215.github.io/en/resorts/austria/tyrol/st-anton-arlberg/
+  - 摘要 (zh-CN): 奥地利阿尔贝格互联雪区核心门户，瓦卢加峰缆车高达2811米，落差1507米，坐拥约300公里压雪道与200公里高山粉雪野雪线，铁路直达镇中心车站。
+  - Summary (en): Gateway to Austria's interconnected Ski Arlberg domain, rising from a 1,304 m rail-served village to the 2,811 m Valluga summit across 300 km of groomed pistes and 200 km of marked off-piste routes.
+- **瓦纳卡三锥山滑雪场 / Treble Cone Ski Area** (`new-zealand/otago` · Top 1960m / Drop 700m / 26 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/new-zealand/otago/treble-cone/ | en: https://huling1215.github.io/en/resorts/new-zealand/otago/treble-cone/
+  - 摘要 (zh-CN): 位于新西兰南岛瓦纳卡湖西侧约30分钟车程，坐拥南岛规模突出的550公顷可滑区域与700米垂直落差。以长距离压雪红黑道、天然U型雪沟与俯瞰瓦纳卡湖的开阔高山碗区闻名。
+  - Summary (en): Rising 30 minutes west of Wānaka, Treble Cone offers 550 hectares of skiable terrain and a 700 m lift-served vertical drop—famed for steep groomers, natural halfpipe gullies, and sweeping views over Lake Wānaka.
+- **范尔滑雪度假村 / Vail Ski Resort** (`usa/colorado` · Top 3527m / Drop 1052m / 195 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/usa/colorado/vail/ | en: https://huling1215.github.io/en/resorts/usa/colorado/vail/
+  - 摘要 (zh-CN): 坐拥5317英亩广阔雪域，以开阔的七大后碗（Back Bowls）与蓝天盆地（Blue Sky Basin）闻名，海拔3527米、落差1052米，属Epic通票核心成员。
+  - Summary (en): Spanning 5,317 skiable acres with legendary Back Bowls and Blue Sky Basin, a 3,527 m summit, 1,052 m vertical drop, and full Epic Pass access.
+- **瓦勒迪泽尔与蒂涅 / Val d'Isère · Tignes** (`france/savoie` · Top 3456m / Drop 1906m / 158 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/france/savoie/val-disere-tignes/ | en: https://huling1215.github.io/en/resorts/france/savoie/val-disere-tignes/
+  - 摘要 (zh-CN): 横跨萨瓦省高海拔冰川谷地，将蒂涅与瓦勒迪泽尔连成约300公里雪道网，大莫特冰川缆车直抵3456米高点，雪季稳定延续至次年5月初。
+  - Summary (en): Spanning high-alpine Savoyard valleys, Tignes and Val d'Isère link 300 km of pistes rising to 3,456 m on the Grande Motte glacier with reliable snow cover into early May.
+- **加尔代纳山谷 · 塞拉环线 / Val Gardena / Sellaronda** (`italy/south-tyrol` · Top 2518m / Drop 1282m / 115 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/italy/south-tyrol/val-gardena-sellaronda/ | en: https://huling1215.github.io/en/resorts/italy/south-tyrol/val-gardena-sellaronda/
+  - 摘要 (zh-CN): 坐落于南蒂罗尔多洛米蒂核心腹地，由奥蒂塞伊、圣克里斯蒂娜与塞尔瓦三座木屋小镇组成，本地与休斯山共181公里雪道，经塞拉环线可畅滑500公里连通雪区。
+  - Summary (en): Set in South Tyrol's Dolomites across Ortisei, Santa Cristina, and Selva, offering 181 km of local Val Gardena–Alpe di Siusi pistes and direct lift access onto the 500 km Sellaronda network.
+- **洪川维瓦尔第公园雪场 / Vivaldi Park Ski World** (`korea/gangwon` · Top 577m / Drop 295m / 12 runs)
+  - URLs: zh-CN: https://huling1215.github.io/resorts/korea/gangwon/vivaldi-sonobel/ | en: https://huling1215.github.io/en/resorts/korea/gangwon/vivaldi-sonobel/
+  - 摘要 (zh-CN): 地处江原道洪川郡西面，距首尔市区车程约60至80分钟，是首尔近郊交通便捷度突出的大型综合滑雪场。拥有12条以音乐流派命名的雪道与10条缆车，夜滑与Snowyland雪上乐园人气旺盛。
+  - Summary (en): Located in Hongcheon, Gangwon roughly 60–80 minutes east of Seoul, Vivaldi Park Ski World is a high-convenience metropolitan ski hub with 12 music-themed runs, 10 lifts, late-night floodlit skiing, and the Snowy Land snow park.
+
+## 5. 全部主题合集 / All Topic Collections (8)
+- **欧洲阿尔卑斯跨谷连通大雪区与火车直达精选 / European Alps Linked Mega-Domains & Rail-Direct Ski Resorts**
+  - URLs: zh-CN: https://huling1215.github.io/collections/alps-iconic-linked-domains/ | en: https://huling1215.github.io/en/collections/alps-iconic-linked-domains/
+- **北海道与新疆阿勒泰深粉雪及开放林间道指南 / Hokkaido & Altay Deep Powder and Open Tree-Run Guide**
+  - URLs: zh-CN: https://huling1215.github.io/collections/deep-powder-and-tree-runs/ | en: https://huling1215.github.io/en/collections/deep-powder-and-tree-runs/
+- **亲子托管与滑进滑出雪场精选 / Family Ski-In/Ski-Out & Kids Club Picks**
+  - URLs: zh-CN: https://huling1215.github.io/collections/family-ski-in-out/ | en: https://huling1215.github.io/en/collections/family-ski-in-out/
+- **初学者与首趟粉雪进阶路线 / First-Timer & Intro to Powder Trips**
+  - URLs: zh-CN: https://huling1215.github.io/collections/first-powder-trip/ | en: https://huling1215.github.io/en/collections/first-powder-trip/
+- **高铁、新干线与KTX两小时圈周末短途滑雪 / 2-Hour High-Speed Rail, Shinkansen & KTX Weekend Ski Trips**
+  - URLs: zh-CN: https://huling1215.github.io/collections/high-speed-rail-weekend-ski/ | en: https://huling1215.github.io/en/collections/high-speed-rail-weekend-ski/
+- **10至11月早雪开板与4至5月春雪长雪季路线 / Oct–Nov Early Opening & Apr–May Spring Snow Long-Season Picks**
+  - URLs: zh-CN: https://huling1215.github.io/collections/long-season-early-and-spring/ | en: https://huling1215.github.io/en/collections/long-season-early-and-spring/
+- **6至10月南半球新西兰盛夏反季滑雪练活路线 / June–October Southern Hemisphere Summer Ski Progression in New Zealand**
+  - URLs: zh-CN: https://huling1215.github.io/collections/southern-hemisphere-summer-ski/ | en: https://huling1215.github.io/en/collections/southern-hemisphere-summer-ski/
+- **雪具厅推门100米内上缆车的真滑进滑出精选 / True Ski-In/Ski-Out Stays Within 100 m of Lifts**
+  - URLs: zh-CN: https://huling1215.github.io/collections/true-ski-in-out-under-100m/ | en: https://huling1215.github.io/en/collections/true-ski-in-out-under-100m/
+
+## 6. 全部实测攻略 / All Guides (63)
+- **中国护照免签去哈萨克斯坦阿拉木图琼布拉克滑雪：航班、雪票与住宿怎么安排？ / Visa-Free Skiing at Shymbulak in Almaty, Kazakhstan: How Should Chinese Travelers Plan Flights, Passes, and Stays?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/almaty-shymbulak-visa-free-ski-trip-guide/ | en: https://huling1215.github.io/en/guides/almaty-shymbulak-visa-free-ski-trip-guide/
+  - 直接答案: 持中国普通护照免签入境哈萨克斯坦单次可停30天：乌鲁木齐约2小时、北京约6小时直飞阿拉木图，住市区40分钟上山省预算，住3200米垭口可推门首滑。
+- **阿拉木图三大雪场对比：琼布拉克、Oi-Qaragai 与 Ak-Bulak 各自适合什么水平？ / Almaty's Three Ski Resorts Compared: Shymbulak, Oi-Qaragai, and Ak-Bulak by Skill Level** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/almaty-shymbulak-vs-oi-qaragai-vs-ak-bulak/ | en: https://huling1215.github.io/en/guides/almaty-shymbulak-vs-oi-qaragai-vs-ak-bulak/
+  - 直接答案: 琼布拉克海拔高至3200米且夜滑便捷，适合初中级刷长道；Oi-Qaragai海拔低且松林挡风，适合亲子新手；Ak-Bulak落差超千米且人少，适合进阶野雪。
+- **免签去阿拉木图滑雪怎么换坚戈、买当地电话卡与租雪板？ / Visa-Free Ski Prep for Almaty: How to Handle Tenge Currency, Local SIMs, and Ski Rentals?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/almaty-visa-free-currency-sim-and-ski-rental/ | en: https://huling1215.github.io/en/guides/almaty-visa-free-currency-sim-and-ski-rental/
+  - 直接答案: 阿拉木图机场ATM可用银联卡直接取坚戈，Beeline或Kcell机场柜台10分钟办好流量卡，雪场2260米中站可刷外币卡租全套雪具且无须繁琐手续。
+- **阿尔贝格“白环 White Ring”怎么一天滑完？圣安东和莱赫怎么用缆车串联？ / How to Ski the Arlberg White Ring in One Day and Link St. Anton with Lech by Lift?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/arlberg-white-ring-circuit-and-run-of-fame/ | en: https://huling1215.github.io/en/guides/arlberg-white-ring-circuit-and-run-of-fame/
+  - 直接答案: 顺时针滑完22公里莱赫-楚尔斯“白环”仅需约3小时，沿途红蓝道流畅；若想一日纵穿圣安东与莱赫挑战85公里荣耀之环，则需上午9点前开滑并盯紧15点半前返程节点。
+- **奥地利雪道木屋餐厅怎么点餐结账？雪后派对和穿雪鞋下山的防滑细节？ / Austrian Ski Hut Etiquette: Ordering, Paying Cash, Après-Ski, and Getting Down Safely?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/austria-apres-ski-and-ski-hut-etiquette/ | en: https://huling1215.github.io/en/guides/austria-apres-ski-and-ski-hut-etiquette/
+  - 直接答案: 奥地利山间木屋分为桌边点餐与自助取餐区，部分老木屋偏爱欧元现金结账；下午雪后派对饮酒需量力而行，切勿醉酒滑行或穿硬底雪鞋踩冰坡下山。
+- **奥地利四大雪区怎么挑：圣安东、莱赫、基茨比厄尔与伊施格尔适合什么水平？ / Austrian Alps Guide: Comparing St. Anton, Lech Zürs, Kitzbühel, and Ischgl by Skill Level?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/austria-st-anton-vs-lech-vs-kitzbuhel-vs-ischgl/ | en: https://huling1215.github.io/en/guides/austria-st-anton-vs-lech-vs-kitzbuhel-vs-ischgl/
+  - 直接答案: 圣安东适合爱陡坡野雪的中高级玩家；莱赫主打优雅皇室氛围与宽缓蓝道；基茨比厄尔适合古城度假与亲子入门；伊施格尔则兼顾跨国长雪季与热闹雪后社交。
+- **在班夫用SkiBig3联票滑阳光村和路易斯湖，住班夫镇还是住山顶木屋更方便？ / Skiing Banff Sunshine and Lake Louise on SkiBig3: Should You Stay in Banff Town or On-Mountain?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/banff-ski-big3-free-shuttle-and-town-base/ | en: https://huling1215.github.io/en/guides/banff-ski-big3-free-shuttle-and-town-base/
+  - 直接答案: 以滑阳光村为主且想清晨抢首滑选阳光山顶木屋（2至3晚）；兼滑路易斯湖、喜欢丰富牛排馆与温泉逛街选班夫镇（或两地分段入住）。
+- **班夫阳光村4至5月春雪值得去吗？零下温度和太阳镜防晒怎么准备？ / Spring Skiing at Banff Sunshine in April and May: Is It Worth It, and How Should You Pack?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/banff-spring-skiing-may-sunshine-slush-cup/ | en: https://huling1215.github.io/en/guides/banff-spring-skiing-may-sunshine-slush-cup/
+  - 直接答案: 阳光村主滑区海拔超2160米，4至5月中旬仍保有干爽雪道与Slush Cup狂欢，房价更亲民；高海拔紫外线强且早晚零下，须备防晒与洋葱穿衣法。
+- **去加拿大滑雪选西岸惠斯勒还是落基山班夫三大雪场？雪质、气温和航程差多少？ / Whistler vs. Banff SkiBig3: How Do Snow Quality, Winter Temperatures, and Travel Logistics Compare?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/canada-whistler-vs-banff-big3-comparison/ | en: https://huling1215.github.io/en/guides/canada-whistler-vs-banff-big3-comparison/
+  - 直接答案: 图省心直飞、怕冷与滑双峰大落差选惠斯勒（Epic）；喜欢干爽落基山粉雪、冰川湖景与5月春雪选班夫三大雪场（Ikon或SkiBig3）。
+- **高雪维尔四个海拔村落 1850、1650、1550 和 1300 住哪层性价比高？ / Courchevel 1850, 1650, 1550, and 1300: Which Village Tier Offers the Right Value?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/courchevel-1850-1650-1550-1300-villages-guide/ | en: https://huling1215.github.io/en/guides/courchevel-1850-1650-1550-1300-villages-guide/
+  - 直接答案: 高雪维尔1650莫里永阳光充足、滑进滑出酒店集中且餐饮价格适中，综合性价比突出；1550适合安静家庭；1300保留传统木屋韵味；1850则主攻奢华宫殿体验。
+- **飞丹佛走I-70还是飞盐湖城去帕克城？冬天租四驱车和堵车时间差多少？ / Denver I-70 vs. Salt Lake City to Park City: How Do Winter 4WD Rules and Traffic Delays Compare?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/denver-i70-vs-salt-lake-city-ski-transfer/ | en: https://huling1215.github.io/en/guides/denver-i70-vs-salt-lake-city-ski-transfer/
+  - 直接答案: 盐湖城机场到帕克城仅40分钟且路况平稳；丹佛沿I-70去范尔约2小时，但周末常遇3至4小时堵车与暴雪封路，须严格遵守科州冬季雪胎法规。
+- **去加尔代纳买Dolomiti Superski全域联票还是本地雪票？每天滑几公里才回本？ / Val Gardena vs. Dolomiti Superski Pass: Which Should You Buy and How Many Kilometers Break Even?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/dolomiti-superski-pass-vs-local-val-gardena-pass/ | en: https://huling1215.github.io/en/guides/dolomiti-superski-pass-vs-local-val-gardena-pass/
+  - 直接答案: 只滑奥蒂塞伊、休斯山与圣克里斯蒂娜买本地票即可省约一成；若滑塞拉环线或跨谷去阿尔塔巴迪亚与科尔蒂纳须买联票，每天跨谷滑行30公里以上即可回本。
+- **初次去欧洲阿尔卑斯滑雪：瑞士采尔马特、法国三峡谷与奥地利圣安东怎么选？ / First Ski Trip to the European Alps: How Should You Choose Between Zermatt, Courchevel (Les 3 Vallees), and St. Anton?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/europe-alps-zermatt-courchevel-st-anton-comparison/ | en: https://huling1215.github.io/en/guides/europe-alps-zermatt-courchevel-st-anton-comparison/
+  - 直接答案: 看重无车小镇火车直达与3883米冰川景观选瑞士采尔马特；追求600公里连通压雪道与滑进滑出选法国三峡谷；偏爱陡峭野雪与热闹雪后社交选奥地利圣安东。
+- **法国三大雪区怎么选：三峡谷、蒂涅瓦勒迪泽尔与霞慕尼差在哪？ / French Alps Comparison: How Do Les 3 Vallées, Tignes–Val d'Isère, and Chamonix Differ?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/france-3-vallees-vs-tignes-val-disere-vs-chamonix/ | en: https://huling1215.github.io/en/guides/france-3-vallees-vs-tignes-val-disere-vs-chamonix/
+  - 直接答案: 追求600公里无缝互联压雪道与多元村落住滑选三峡谷；偏爱高海拔冰川雪质与长雪季粉雪选蒂涅瓦勒迪泽尔；看重机场近距直达与勃朗峰野雪挑战选霞慕尼。
+- **为什么法国雪场公寓和 Club Med 多按周六进周六出预订？怎么避开大堵车日？ / Why Do French Ski Apartments and Club Med Run Saturday-to-Saturday, and How Can You Dodge Peak Traffic?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/french-ski-weeks-saturday-to-saturday-rule/ | en: https://huling1215.github.io/en/guides/french-ski-weeks-saturday-to-saturday-rule/
+  - 直接答案: 法国雪场旺季沿袭学校雪假7晚周六换房惯例以保证满房率；想避开周六峡谷大堵车，可选择周日进出、改乘TGV高铁上山或挑选支持灵活起止日的精品酒店。
+- **飞日内瓦还是里昂机场去法国阿尔卑斯？TGV 火车转盘山大巴怎么接驳？ / Geneva vs. Lyon Airport for the French Alps: How Do Road Transfers and TGV Trains Compare?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/geneva-airport-to-french-alps-transfer-and-tgv/ | en: https://huling1215.github.io/en/guides/geneva-airport-to-french-alps-transfer-and-tgv/
+  - 直接答案: 飞日内瓦机场去霞慕尼仅75分钟且去三峡谷班车高频；里昂机场则适合避开日内瓦周末拥堵并衔接铁路；巴黎转TGV直抵穆捷或圣莫里斯堡则能大幅减少盘山乘车时间。
+- **在奥地利伊施格尔滑雪顺道滑进瑞士萨姆瑙恩免税村，要带护照吗？ / Skiing from Ischgl, Austria to Duty-Free Samnaun, Switzerland: Do You Need Your Passport?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/ischgl-to-samnaun-switzerland-duty-free-ski/ | en: https://huling1215.github.io/en/guides/ischgl-to-samnaun-switzerland-duty-free-ski/
+  - 直接答案: 虽然奥瑞雪道山脊无固定边检岗亭，但奥地利与瑞士分属欧盟内外关税区，海关抽查偶有发生；滑行跨国务必随身携带护照原件、申根签并留意欧盟免税限额。
+- **在意大利雪场山顶木屋Rifugio吃午饭怎么点单？比瑞士奥地利便宜多少？ / Mountain Hut Dining in Italy: How to Order at a Rifugio and How Prices Compare with Switzerland and Austria?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/italian-rifugio-mountain-hut-lunch-and-aperitivo/ | en: https://huling1215.github.io/en/guides/italian-rifugio-mountain-hut-lunch-and-aperitivo/
+  - 直接答案: 意式山屋午餐先选前菜意面或玉米糊配炖肉，单人主菜加饮品约18至28欧元，整体比瑞士采尔马特便宜约四成、比奥地利同档木屋略低一至两成。
+- **意大利滑雪怎么选：科尔蒂纳、加尔代纳山谷还是切尔维尼亚？ / Skiing in Italy: How to Choose Between Cortina d'Ampezzo, Val Gardena, and Breuil-Cervinia?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/italy-dolomites-cortina-vs-val-gardena-vs-cervinia/ | en: https://huling1215.github.io/en/guides/italy-dolomites-cortina-vs-val-gardena-vs-cervinia/
+  - 直接答案: 看重威尼斯直达与白云岩地标选科尔蒂纳；追求四谷环线与水疗小镇选加尔代纳；偏爱2050米高海拔保雪与跨国滑入瑞士采尔马特选切尔维尼亚。
+- **7至8月去新西兰反季滑雪住皇后镇还是瓦纳卡？卡德罗纳与卓越山雪况交通对比？ / Skiing New Zealand in July–August: Should You Base in Queenstown or Wanaka, and How Do Cardrona and The Remarkables Compare?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/july-august-new-zealand-queenstown-wanaka-ski-guide/ | en: https://huling1215.github.io/en/guides/july-august-new-zealand-queenstown-wanaka-ski-guide/
+  - 直接答案: 偏爱宽阔碗状雪道、公园进阶与清静湖镇选住瓦纳卡滑卡德罗纳；不愿走砂石山路、想兼顾25分钟铺装路快进快出与丰富餐饮则住皇后镇滑皇冠峰与卓越山。
+- **韩国雪场夜滑几点开放？雪服雪板租赁和护具购买怎么避坑？ / Korea Night Skiing Hours & Gear Rental Etiquette: What First-Timers Need to Know?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/korea-night-ski-and-ski-rental-etiquette/ | en: https://huling1215.github.io/en/guides/korea-night-ski-and-ski-rental-etiquette/
+  - 直接答案: 韩国雪场常在16:30至18:30压雪后开启夜滑至22:00或深夜；雪板雪服可现场租用，但护镜、手套、头套及防摔护具因卫生规定通常需自备或现场购买。
+- **首尔近郊维瓦尔第当天往返滑雪，还是直接去平昌住滑 3 天更划算？ / Vivaldi Park Day Trip from Seoul vs. 3-Day Pyeongchang Stay: Which Offers Better Value?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/korea-vivaldi-day-trip-vs-pyeongchang-stay/ | en: https://huling1215.github.io/en/guides/korea-vivaldi-day-trip-vs-pyeongchang-stay/
+  - 直接答案: 首次尝鲜打卡、首尔行程只剩1天机动时间选维瓦尔第当日往返；想认真学转弯、刷长雪道并体验夜滑加温泉，直接去平昌住滑3天2晚体验更完整。
+- **韩国龙平、凤凰与High1怎么选？新手、公园玩家与家庭分别去哪座？ / Yongpyong vs. Phoenix Pyeongchang vs. High1: Which Korean Resort Fits Beginners, Park Riders, and Families?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/korea-yongpyong-vs-phoenix-vs-high1-guide/ | en: https://huling1215.github.io/en/guides/korea-yongpyong-vs-phoenix-vs-high1-guide/
+  - 直接答案: 看重长距离高山道与经典大雪场规模选龙平；单板自由式与KTX短途选平昌凤凰；带新手或亲子想滑4.2公里缓坡兼泡水世界则选旌善High1。
+- **坐火车直达 Bourg-Saint-Maurice 7 分钟缆索铁道上莱萨尔克雪场实操指南？ / Train-to-Slope Guide: Riding the 7-Minute Funicular from Bourg-Saint-Maurice to Les Arcs?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/les-arcs-funicular-from-bourg-saint-maurice/ | en: https://huling1215.github.io/en/guides/les-arcs-funicular-from-bourg-saint-maurice/
+  - 直接答案: 乘TGV抵达圣莫里斯堡站后，过连廊步行3分钟即达缆索铁道，7分钟直抵Arc 1600雪道口，再转免费穿梭巴士可达1800、1950与2000营地。
+- **从阿拉木图市区坐 12 路公交或打车去麦迪奥再乘吊厢上琼布拉克怎么走？ / How to Get from Downtown Almaty to Medeu via Bus 12 or Taxi and Ride the Gondola to Shymbulak?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/medeu-gondola-and-almaty-bus-12-guide/ | en: https://huling1215.github.io/en/guides/medeu-gondola-and-almaty-bus-12-guide/
+  - 直接答案: 市区在哈萨克斯坦酒店门前乘12路公交或用Yandex Go打车约35分钟到麦迪奥冰场，再换乘20分钟三段吊厢直达2260米琼布拉克中站，私家燃油车禁止上山。
+- **飞基督城去哈特山滑雪：住梅思文镇还是住市区通勤更省事？ / Flying into Christchurch for Mt Hutt: Should You Stay in Methven Village or Commute from the City?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/mt-hutt-christchurch-winter-ski-guide/ | en: https://huling1215.github.io/en/guides/mt-hutt-christchurch-winter-ski-guide/
+  - 直接答案: 滑2天以上推荐住山脚梅思文镇，距雪场仅35分钟且方便泡温泉；仅滑1天或兼顾基督城市区观光，再选乘早上出发的市区直达滑雪巴士当日往返。
+- **7月新西兰与澳洲学校假期哪两周雪场人多？怎么错峰订房和雪票？ / New Zealand & Australian July School Holidays: Which Two Weeks Are Peak Crowds, and How Do You Time Your Trip?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/new-zealand-school-holidays-july-crowds-guide/ | en: https://huling1215.github.io/en/guides/new-zealand-school-holidays-july-crowds-guide/
+  - 直接答案: 每年7月前两周新西兰与澳洲寒假完全重叠，住宿涨价且缆车排队久；将行程安排在7月下旬至8月下旬或9月初，积雪更厚且人流舒适。
+- **新西兰雪票怎么买：NZSki 三山卡和 Cardrona-Treble Cone 联票怎么选？ / New Zealand Ski Passes Explained: NZSki Three-Mountain Pass vs. Cardrona-Treble Cone Multi-Day Pass?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/new-zealand-ski-pass-nzski-vs-cardrona-treble-cone/ | en: https://huling1215.github.io/en/guides/new-zealand-ski-pass-nzski-vs-cardrona-treble-cone/
+  - 直接答案: 滑皇冠峰、卓越山与哈特山选NZSki三山卡；滑卡德罗纳与三锥山选Cardrona-TC联票；已有Ikon Pass可免购NZSki日票。
+- **新西兰自驾上雪山一定要带防滑链吗？皇冠峰、卡德罗纳与哈特山路况对比？ / Are Snow Chains Mandatory for Driving Up New Zealand Ski Fields? Road Comparison Across Coronet Peak, Cardrona, and Mt Hutt?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/new-zealand-snow-chains-and-mountain-shuttle-guide/ | en: https://huling1215.github.io/en/guides/new-zealand-snow-chains-and-mountain-shuttle-guide/
+  - 直接答案: 新西兰雪山公路普遍强制随车携带防滑链（含四驱车），降雪或结冰日须现场安装；不想在寒风中挂链的游客建议改乘镇内雪场巴士或停山脚转摆渡车。
+- **去北美滑雪选加拿大惠斯勒还是美国阿斯本雪堆山？Epic与Ikon通票怎么提前规划？ / Whistler Blackcomb vs. Aspen Snowmass: Which North American Giant Fits You, and How Should You Plan Epic or Ikon Passes?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/north-america-whistler-vs-colorado-ikon-epic-guide/ | en: https://huling1215.github.io/en/guides/north-america-whistler-vs-colorado-ikon-epic-guide/
+  - 直接答案: 担心高反、看重温哥华2小时车程与双峰地形选惠斯勒（配Epic票）；追求干爽粉雪与四山分流选阿斯本雪堆山（配Ikon票），均须在12月初停售前购妥。
+- **多洛米蒂Sellaronda四谷大环线顺时针橙线和逆时针绿线怎么滑？几岁能完赛？ / How to Ski the Dolomites Sellaronda Circuit: Orange vs. Green Loop and Minimum Age Tips?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/sellaronda-orange-vs-green-loop-guide/ | en: https://huling1215.github.io/en/guides/sellaronda-orange-vs-green-loop-guide/
+  - 直接答案: 顺时针橙线偏陡且红道多，适合控速稳健的中级雪友；逆时针绿线蓝道温和，适合初中级与家庭；建议10岁以上具备平行转弯能力的儿童在向导或家长陪同下完赛。
+- **从首尔市区或仁川机场去江原道四大雪场，KTX高铁与直通巴士怎么选？ / Seoul & Incheon Airport to Gangwon Ski Resorts: Should You Take KTX Rail or Direct Ski Shuttles?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/seoul-ktx-and-shuttle-to-gangwon-ski-resorts/ | en: https://huling1215.github.io/en/guides/seoul-ktx-and-shuttle-to-gangwon-ski-resorts/
+  - 直接答案: 仁川机场落地直奔雪场且携带大件雪包，优先订直通滑雪巴士免换乘；从首尔站或清凉里出发去龙平、凤凰，乘京江线KTX加免费接驳更省时。
+- **琼布拉克山顶海拔 3200 米容易高反吗？住市区还是住雪道中站更好？ / Does Shymbulak's 3,200 m Summit Cause Altitude Sickness, and Should You Sleep in Almaty or at 2,260 m?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/shymbulak-altitude-3200m-acclimatization-guide/ | en: https://huling1215.github.io/en/guides/shymbulak-altitude-3200m-acclimatization-guide/
+  - 直接答案: 阿拉木图市区约800米，缆车短时升至3200米通常仅感轻微气喘；易高反或失眠者建议住市区或1690米麦迪奥，追求晨间首滑则选2260米中站。
+- **琼布拉克夜场几点开放？哪些雪道有照明且适合下班或落地当晚开滑？ / When Does Shymbulak Night Skiing Open, and Which Floodlit Runs Suit Evening Laps?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/shymbulak-night-ski-hours-and-lighting-runs/ | en: https://huling1215.github.io/en/guides/shymbulak-night-ski-hours-and-lighting-runs/
+  - 直接答案: 琼布拉克每周二、四、六、日19:00至23:00开放夜场，Kombi-1与Kombi-2亮灯直达3200米山口，适合周六或落地当晚畅滑压雪长道。
+- **滑雪遇到大风停缆车或暴雪封路，退改核对与周边替代行程怎么提前准备？ / How Should You Prepare for Lift Wind Holds, Blizzard Road Closures, Refunds, and Off-Mountain Backups?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/ski-resort-wind-hold-and-blizzard-backup-plan/ | en: https://huling1215.github.io/en/guides/ski-resort-wind-hold-and-blizzard-backup-plan/
+  - 直接答案: 秒速超15至20米常触发山顶索道停运且多日连滑票通常不退费：建议改买跨日小时券，返程前留1晚枢纽城市缓冲，备好温泉短途B计划。
+- **圣莫里茨恩加丁四山怎么串联滑？Corviglia 和 Corvatsch 冰川分别适合几天？ / How to Ski St. Moritz's Upper Engadin Mountains: Splitting Days Between Corviglia and Corvatsch?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/st-moritz-engadin-4-mountains-pass-guide/ | en: https://huling1215.github.io/en/guides/st-moritz-engadin-4-mountains-pass-guide/
+  - 直接答案: 上恩加丁多日通票含免费巴士串联各山：5天行程可安排科尔维利亚滑2至3天练刻滑，Corvatsch冷雪与Diavolezza冰川各留1天。
+- **坐瑞士火车带雪板怎么用 SBB 行李托运？买半价卡还是 Swiss Travel Pass 更省？ / Skiing Switzerland by Train: How Does SBB Luggage Forwarding Work, and Half Fare Card vs. Swiss Travel Pass?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/swiss-sbb-luggage-transfer-and-half-fare-card-ski/ | en: https://huling1215.github.io/en/guides/swiss-sbb-luggage-transfer-and-half-fare-card-ski/
+  - 直接答案: 7天以内单雪场行程买瑞士半价卡配合点对点车票通常更省，雪板可免费带进车厢立架，也可在苏黎世机场直接办理SBB站到站托运轻装乘车。
+- **瑞士三大雪区怎么选：采尔马特、圣莫里茨和韦尔比耶地形与氛围差在哪？ / Zermatt vs. St. Moritz vs. Verbier: Which Swiss Ski Domain Fits Your Terrain and Vibe?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/switzerland-zermatt-vs-st-moritz-vs-verbier/ | en: https://huling1215.github.io/en/guides/switzerland-zermatt-vs-st-moritz-vs-verbier/
+  - 直接答案: 采尔马特看马特洪峰且能跨国滑入意大利，适合全能度假；圣莫里茨阳光充沛、压雪宽阔，适合中级刻滑与铁路奢华游；韦尔比耶野雪地形硬核，适合高阶玩家。
+- **住瓦纳卡滑雪：卡德罗纳和三锥山难度差多少？适合什么水平？ / Skiing from Wānaka: How Much Harder Is Treble Cone Than Cardrona, and Which Suits Your Level?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/treble-cone-vs-cardrona-wanaka-intermediate-guide/ | en: https://huling1215.github.io/en/guides/treble-cone-vs-cardrona-wanaka-intermediate-guide/
+  - 直接答案: 卡德罗纳以宽缓碗区与丰富绿蓝道为主，适合初中级与公园玩家；三锥山90%为中高级陡坡与天然雪沟，推荐能稳定平行滑蓝黑道的进阶雪友前往。
+- **科罗拉多雪场海拔普遍超3500米，刚落地如何防高反与补充水分？ / Skiing Above 3,500 m in Colorado: How to Prevent Altitude Sickness and Stay Hydrated on Day One?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/usa-high-altitude-colorado-acclimatization-guide/ | en: https://huling1215.github.io/en/guides/usa-high-altitude-colorado-acclimatization-guide/
+  - 直接答案: 范尔与阿斯本山脚海拔即近2470米，刚落地前48小时应大量饮水补充电解质、禁酒控咖啡因，首日安排在丹佛或低坡热身，避免一上来就猛冲山顶碗区。
+- **美国雪场租雪板、请教练和酒店雪具托管要给多少小费？Demo板值得升级吗？ / US Ski Rentals, Demo Upgrades, and Tipping: How Much Should You Tip Instructors and Ski Valets?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/usa-ski-rental-demo-gear-and-tipping-guide/ | en: https://huling1215.github.io/en/guides/usa-ski-rental-demo-gear-and-tipping-guide/
+  - 直接答案: 美国雪场全天私教建议给15%至20%或每半天20至40美元小费，酒店雪具托管每次2至5美元；滑行中级以上升级Demo板体验提升明显且支持中途免费换板。
+- **美国四大雪场怎么选：范尔、阿斯本、帕克城和杰克逊霍尔分别适合谁？ / Vail vs. Aspen vs. Park City vs. Jackson Hole: Which US Ski Resort Fits Your Trip?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/usa-vail-vs-aspen-vs-park-city-vs-jackson-hole/ | en: https://huling1215.github.io/en/guides/usa-vail-vs-aspen-vs-park-city-vs-jackson-hole/
+  - 直接答案: 重开阔后碗与欧式小镇选范尔（Epic），带娃或想下机快到雪场选帕克城（Epic），追求四山干粉雪选阿斯本（Ikon），专攻陡峭黑道与大缆车选杰克逊霍尔。
+- **去范尔滑雪怎么逛七大后碗Back Bowls和蓝天盆地？新手能滑吗？ / How to Navigate Vail's Seven Back Bowls and Blue Sky Basin—and Can Beginners Ski Them?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/vail-back-bowls-and-blue-sky-basin-route-guide/ | en: https://huling1215.github.io/en/guides/vail-back-bowls-and-blue-sky-basin-route-guide/
+  - 直接答案: 范尔七大后碗与蓝天盆地位于山脊南侧，视野开阔无树木遮挡，纯新手不宜贸然进入，但中级雪友可在晴天挑战China Bowl压雪主线并留足返程时间。
+- **温哥华机场YVR去惠斯勒大巴要坐多久？租车上雪胎有哪些强制规定？ / Vancouver Airport (YVR) to Whistler: How Long Is the Shuttle, and What Winter Tire Laws Apply?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/vancouver-yvr-to-whistler-sea-to-sky-transfer/ | en: https://huling1215.github.io/en/guides/vancouver-yvr-to-whistler-sea-to-sky-transfer/
+  - 直接答案: 温哥华机场乘Skylynx等直达大巴沿99号海天公路约2.5至3小时抵达惠斯勒村；若自驾，10月至次年4月须依法配备M+S或雪花标冬季轮胎。
+- **去意大利多洛米蒂飞威尼斯、米兰还是维罗纳机场？大巴和包车耗时对比？ / Flying to the Dolomites: Venice, Milan, or Verona Airport — Bus vs. Private Transfer Times?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/venice-milan-verona-airport-to-dolomites-transfer/ | en: https://huling1215.github.io/en/guides/venice-milan-verona-airport-to-dolomites-transfer/
+  - 直接答案: 去科尔蒂纳选威尼斯机场乘直达大巴约2小时；去加尔代纳或马东纳飞维罗纳或米兰转包车及高铁约2至3小时，大巴性价比高而包车更省时。
+- **惠斯勒三大住宿区对比：主村、上村和Creekside分别适合什么预算和滑行习惯？ / Whistler Village vs. Upper Village vs. Creekside: Which Base Area Fits Your Budget and Ski Style?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/whistler-village-vs-upper-village-vs-creekside/ | en: https://huling1215.github.io/en/guides/whistler-village-vs-upper-village-vs-creekside/
+  - 直接答案: 爱逛街与双吊厢直上选主村（如Westin）；偏好安静、滑进滑出与度假感选上村（如Fairmont/Four Seasons）；家庭求实惠选Creekside。
+- **采尔马特无车小镇怎么住？选 Sunnegga、Gornergrat 还是冰川缆车站附近更方便？ / Where to Stay in Car-Free Zermatt: Sunnegga, Gornergrat, or Matterhorn Express Lift Portal?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/zermatt-car-free-village-gornergrat-vs-klein-matterhorn/ | en: https://huling1215.github.io/en/guides/zermatt-car-free-village-gornergrat-vs-klein-matterhorn/
+  - 直接答案: 采尔马特禁行燃油车，三大入口各有侧重：带娃新手选Sunnegga，铁路观景选Gornergrat，冲冰川与跨国滑意大利选南端冰川缆车。
+- **在采尔马特滑雪怎么跨国滑去意大利切尔维尼亚？风大关缆车怎么看回程时间？ / Skiing from Zermatt to Cervinia, Italy: How to Cross the Border and Catch the Return Lift?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/zermatt-international-pass-to-cervinia-italy/ | en: https://huling1215.github.io/en/guides/zermatt-international-pass-to-cervinia-italy/
+  - 直接答案: 需购买瑞意国际通票并随身带护照，经3883米小马特洪峰或3480米泰奥杜尔山口滑入意大利吃午餐；切记提前查看下午15:30前后的返瑞末班缆车且警惕大风停运。
+- **去奥地利蒂罗尔滑雪飞苏黎世、慕尼黑还是因斯布鲁克？ÖBB 火车直达对比？ / Zurich, Munich, or Innsbruck for Austrian Ski Trips: How Do ÖBB Rail Connections Compare?** (Published: 2026-11-21)
+  - URLs: zh-CN: https://huling1215.github.io/guides/zurich-munich-innsbruck-to-tyrol-obb-rail-guide/ | en: https://huling1215.github.io/en/guides/zurich-munich-innsbruck-to-tyrol-obb-rail-guide/
+  - 直接答案: 去圣安东或莱赫飞苏黎世乘ÖBB Railjet直达约2.3小时；去基茨比厄尔飞慕尼黑转铁路约2.3小时；因斯布鲁克距四雪场均在90分钟内但直航较少。
+- **初次滑雪租雪场基础板还是进阶板？哪些贴身护具建议提前自备？ / First-Time Ski Gear Guide: Standard vs. Demo Rentals, and What Should You Buy Ahead?** (Published: 2026-11-20)
+  - URLs: zh-CN: https://huling1215.github.io/guides/first-time-ski-rental-vs-own-gear-guide/ | en: https://huling1215.github.io/en/guides/first-time-ski-rental-vs-own-gear-guide/
+  - 直接答案: 初次滑雪前3天租雪场软硬度适中的基础板与雪鞋容错率更高，无需买板或租硬朗进阶板；速干内衣、美利奴羊毛雪袜、防雾雪镜与护脸面罩建议提前自备。
+- **去日本北海道滑一周雪真实总花费要多少？机票、住滑、全山票与教练预算拆解？ / How Much Does a 7-Day Hokkaido Ski Trip Actually Cost Across Flights, Lodging, Passes, and Lessons?** (Published: 2026-11-20)
+  - URLs: zh-CN: https://huling1215.github.io/guides/hokkaido-7-day-ski-trip-cost-breakdown/ | en: https://huling1215.github.io/en/guides/hokkaido-7-day-ski-trip-cost-breakdown/
+  - 直接答案: 双人同行北海道7天6晚（5个滑行日）人均总花费约1.8万至3.2万元：机票接驳4500至8000元，住滑6晚6500元起，5日全山票约3200元。
+- **自带雪板顺丰寄国内雪场或托运飞日本北海道要注意哪些尺寸与收费细节？ / Shipping Skis in China & Flying to Hokkaido: What Size and Baggage Rules Apply?** (Published: 2026-11-20)
+  - URLs: zh-CN: https://huling1215.github.io/guides/shipping-skis-domestic-and-flying-to-japan/ | en: https://huling1215.github.io/en/guides/shipping-skis-domestic-and-flying-to-japan/
+  - 直接答案: 国内顺丰雪具寄按实重与体积重取大计费，建议提前3至4天寄出并足额保价；飞北海道选全日空三边限292厘米、日航与南航限203厘米且经济舱限重23公斤。
+- **只有3至4天假期想出国滑雪：去韩国江原道龙平High1还是日本越后汤泽苗场更合适？ / With Only 3 to 4 Days Off, Should You Ski Korea's Gangwon Resorts or Japan's Echigo-Yuzawa Naeba?** (Published: 2026-11-20)
+  - URLs: zh-CN: https://huling1215.github.io/guides/short-holiday-korea-gangwon-vs-japan-yuzawa/ | en: https://huling1215.github.io/en/guides/short-holiday-korea-gangwon-vs-japan-yuzawa/
+  - 直接答案: 拼周五请1至2天假选韩国龙平或High1更省时（飞首尔约2小时，4天人均5500元起）；看重天然雪与温泉选日本苗场（7500元起）。
+- **冬季去新疆阿勒泰禾木吉克普林滑雪，山路冰雪怎么安排四驱雪地胎交通与供暖住宿？ / How Should You Arrange 4WD Snow-Tire Transport and Heated Lodging for Winter Skiing in Hemu Jikepulin?** (Published: 2026-11-19)
+  - URLs: zh-CN: https://huling1215.github.io/guides/altay-hemu-jikepulin-winter-4wd-and-lodging-guide/ | en: https://huling1215.github.io/en/guides/altay-hemu-jikepulin-winter-4wd-and-lodging-guide/
+  - 直接答案: 冬季进禾木须用配雪地胎的7座及以下四驱车：走布尔津经S232约4小时，阿禾公路限10:00至14:00放行；住宿选东区地暖酒店或新村木屋。
+- **白马山谷雪场怎么挑？八方尾根、五龙47与栂池高原分别适合什么水平？ / Hakuba Valley Comparison: Should You Ski Happo-One, Goryu/47, or Tsugaike Kogen?** (Published: 2026-11-19)
+  - URLs: zh-CN: https://huling1215.github.io/guides/hakuba-valley-happo-goryu-tsugaike-comparison/ | en: https://huling1215.github.io/en/guides/hakuba-valley-happo-goryu-tsugaike-comparison/
+  - 直接答案: 零基础与家庭练活选拥有1200米宽缓坡的栂池高原；初中级混滑与地形公园进阶选双山相连的五龙47；挑战1071米大落差陡坡选八方尾根。
+- **怎么辨别“真滑进滑出酒店”和每天等接驳车的“伪住滑酒店”？ / How Do You Spot a True Ski-In/Ski-Out Hotel vs. a Shuttle-Dependent Stay?** (Published: 2026-11-19)
+  - URLs: zh-CN: https://huling1215.github.io/guides/how-to-spot-true-ski-in-ski-out-hotels/ | en: https://huling1215.github.io/en/guides/how-to-spot-true-ski-in-ski-out-hotels/
+  - 直接答案: 核验真滑进滑出须逐条确认三件事：预订楼栋雪具厅出口至缆车平地步行不超过100米、无需乘接驳车或穿马路，且门前雪道匹配自身滑行水平。
+- **从东京出发去苗场、野泽温泉与白马，新干线转接驳巴士哪条线换乘更顺畅？ / Which Tokyo Shinkansen-and-Shuttle Route Offers the Smoothest Transfer to Naeba, Nozawa Onsen, or Hakuba?** (Published: 2026-11-19)
+  - URLs: zh-CN: https://huling1215.github.io/guides/tokyo-shinkansen-to-naeba-nozawa-hakuba-guide/ | en: https://huling1215.github.io/en/guides/tokyo-shinkansen-to-naeba-nozawa-hakuba-guide/
+  - 直接答案: 带娃或短假期选苗场换乘更省力：东京乘上越新干线75分钟到越后汤泽转巴士42分钟直抵酒店；去野泽经饭山约2.3小时；去白马经长野约3小时。
+- **长白山万达、吉林北大湖与崇礼太舞怎么选？各自适合几天假期？ / Changbaishan Wanda vs. Beidahu vs. Chongli Thaiwoo: Which Fits Your Holiday Length?** (Published: 2026-11-18)
+  - URLs: zh-CN: https://huling1215.github.io/guides/changbaishan-vs-beidahu-vs-chongli/ | en: https://huling1215.github.io/en/guides/changbaishan-vs-beidahu-vs-chongli/
+  - 直接答案: 周末2至3天短假选京张高铁50分钟直达的崇礼太舞；带老人小孩泡汤度假选4天3晚长白山万达；专注870米落差刷道进阶选4至5天吉林北大湖。
+- **带家人去北海道滑雪：二世谷、留寿都与星野Tomamu核心差异在哪？ / Hokkaido Family Ski Guide: How Do Niseko, Rusutsu, and Hoshino Tomamu Differ?** (Published: 2026-11-18)
+  - URLs: zh-CN: https://huling1215.github.io/guides/hokkaido-niseko-vs-rusutsu-vs-tomamu/ | en: https://huling1215.github.io/en/guides/hokkaido-niseko-vs-rusutsu-vs-tomamu/
+  - 直接答案: 重度滑雪与逛温泉餐厅选四山连通的二世谷；追求清静白桦林粉雪与馆内直通缆车选留寿都；兼顾低龄幼童恒温造浪池与爱丝冰城选星野Tomamu。
+- **新千岁机场航班晚点赶不上末班雪场巴士，怎么去二世谷或留寿都？ / How Do You Reach Niseko or Rusutsu If a Late Flight Misses the Last New Chitose Ski Bus?** (Published: 2026-11-18)
+  - URLs: zh-CN: https://huling1215.github.io/guides/new-chitose-late-flight-niseko-rusutsu-transfer/ | en: https://huling1215.github.io/en/guides/new-chitose-late-flight-niseko-rusutsu-transfer/
+  - 直接答案: 错过直达巴士可按人数选三条路：去二世谷乘JR经小樽至俱知安约3.5小时；4人以上包车单程4.2万日元起；去留寿都住札幌站次日8:00乘车。
+- **日本北海道与长野粉雪季几月出发雪况更稳、怎么衔接交通？ / When Should You Visit Hokkaido and Nagano for Reliable Powder and Smooth Transfers?** (Published: 2026-11-16)
+  - URLs: zh-CN: https://huling1215.github.io/guides/japan-powder-season-timing-and-transport-guide/ | en: https://huling1215.github.io/en/guides/japan-powder-season-timing-and-transport-guide/
+  - 直接答案: 追求高频干冷新雪优先锁定1月上旬至2月中旬；兼顾晴天山景与温和体感可选2月下旬至3月中旬。北海道走新千岁机场预约巴士，长野走东京新干线转白马快巴。
+- **带孩子去滑进滑出雪场需要准备哪些装备与托管手续？ / What Gear and Kids Club Prep Do Families Need for a Ski-In/Ski-Out Trip?** (Published: 2026-11-14)
+  - URLs: zh-CN: https://huling1215.github.io/guides/family-ski-packing-and-kids-club-checklist/ | en: https://huling1215.github.io/en/guides/family-ski-packing-and-kids-club-checklist/
+  - 直接答案: 儿童硬装备（雪板、雪鞋、头盔）直接在雪场按身高体重现配租赁，家长重点自备排汗速干内层、防雾雪镜与两副防水手套，并提前核对托管营年龄与过敏登记。
+- **初次住滑去吉林北大湖还是北海道二世谷？ / Beidahu vs. Niseko: Where Should You Book Your First Ski-and-Stay Trip?** (Published: 2026-11-12)
+  - URLs: zh-CN: https://huling1215.github.io/guides/how-to-choose-first-ski-resort-china-japan/ | en: https://huling1215.github.io/en/guides/how-to-choose-first-ski-resort-china-japan/
+  - 直接答案: 假期在4至5天、侧重高密度中文教学与控制总预算时选吉林北大湖；假期在6天以上、已能滑行蓝道且看重天然粉雪与温泉小镇氛围时选北海道二世谷。
+
+## 7. 撰稿与核验团队 / Editorial Team
+- **雪迹编辑部 / PowderClub Editorial**: zh-CN: https://huling1215.github.io/authors/powderclub-editorial/ | en: https://huling1215.github.io/en/authors/powderclub-editorial/
+
+## 8. 联系方式与更新日期 / Contact & Updated
+- Contact: zh-CN https://huling1215.github.io/contact/ | en https://huling1215.github.io/en/contact/
+- Latest Updated: 2026-11-22
