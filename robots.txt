@@ -1,2 +1,4 @@
+# 预发布 / 演示环境（PRODUCTION != 1）：整站禁止搜索引擎与 AI 爬虫收录
+# 正式生产环境发版请设置 PRODUCTION=1 并将全部条目切换为 sample: false
 User-agent: *
 Disallow: /

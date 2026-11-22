@@ -7,7 +7,7 @@
   Referrer-Policy: strict-origin-when-cross-origin
   Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=()
   X-Frame-Options: SAMEORIGIN
-  Content-Security-Policy: default-src 'self'; base-uri 'self'; object-src 'none'; form-action 'self'; script-src 'self' https://res.wx.qq.com 'sha256-XGQP1tNGe4l5BNr89EK0meIGirDGeb43fPDr/NRlvUE=' 'sha256-iEUhxraOqPXQ/BYPkXzncjMHvZKH6TCQJg7ACx8Wqx8=' 'sha256-rsWyE2VEj3JLpsv0fc04aKeQcTz+f+wkbrpTxejV9s8='; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self' data:; connect-src 'self'; frame-ancestors 'self' https://servicewechat.com https://*.servicewechat.com https://*.qq.com https://*.weixin.qq.com;
+  Content-Security-Policy: default-src 'self'; base-uri 'self'; object-src 'none'; form-action 'self'; script-src 'self' https://res.wx.qq.com 'sha256-XGQP1tNGe4l5BNr89EK0meIGirDGeb43fPDr/NRlvUE=' 'sha256-iEUhxraOqPXQ/BYPkXzncjMHvZKH6TCQJg7ACx8Wqx8=' 'sha256-rsWyE2VEj3JLpsv0fc04aKeQcTz+f+wkbrpTxejV9s8='; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob:; font-src 'self' data:; connect-src 'self' http://127.0.0.1:* ws://127.0.0.1:* http://localhost:* ws://localhost:*; frame-ancestors 'self' https://servicewechat.com https://*.servicewechat.com https://*.qq.com https://*.weixin.qq.com;
 
 /_astro/*
   Cache-Control: public, max-age=31536000, immutable

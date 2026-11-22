@@ -182,6 +182,264 @@
   - 摘要 (zh-CN): 地处江原道洪川郡西面，距首尔市区车程约60至80分钟，是首尔近郊交通便捷度突出的大型综合滑雪场。拥有12条以音乐流派命名的雪道与10条缆车，夜滑与Snowyland雪上乐园人气旺盛。
   - Summary (en): Located in Hongcheon, Gangwon roughly 60–80 minutes east of Seoul, Vivaldi Park Ski World is a high-convenience metropolitan ski hub with 12 music-themed runs, 10 lifts, late-night floodlit skiing, and the Snowy Land snow park.
 
+## 3. 全部住滑酒店 / All Ski Stays (68)
+- **奥蒂塞伊阿德勒多洛米蒂水疗度假村 / ADLER Spa Resort DOLOMITI** (Resort: `val-gardena-sellaronda` · 250m to lift · CNY 4850/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/adler-spa-resort-dolomiti/ | en: https://huling1215.github.io/en/stays/adler-spa-resort-dolomiti/
+- **塔尔加尔 Ak-Bulak 高山滑雪度假酒店 / Ak-Bulak Alpine Resort Hotel** (Resort: `ak-bulak` · Ski-in/out · CNY 1180/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/ak-bulak-alpine-resort/ | en: https://huling1215.github.io/en/stays/ak-bulak-alpine-resort/
+- **平昌阿尔卑西亚洲际酒店 / InterContinental Alpensia Pyeongchang Resort** (Resort: `yongpyong` · 350m to lift · CNY 1420/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/alpensia-intercontinental/ | en: https://huling1215.github.io/en/stays/alpensia-intercontinental/
+- **范尔广场阿拉贝尔酒店 / The Arrabelle at Vail Square** (Resort: `vail` · Ski-in/out · CNY 6400/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/arrabelle-vail-square/ | en: https://huling1215.github.io/en/stays/arrabelle-vail-square/
+- **圣莫里茨巴德鲁特宫殿酒店 / Badrutt's Palace Hotel St. Moritz** (Resort: `st-moritz-corviglia` · 450m to lift · CNY 8200/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/badrutts-palace-st-moritz/ | en: https://huling1215.github.io/en/stays/badrutts-palace-st-moritz/
+- **北大湖山湖居酒店 / Beidahu Shanhuju Ski-In Hotel** (Resort: `beidahu` · Ski-in/out · CNY 1280/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/beidahu-shanren-lodge/ | en: https://huling1215.github.io/en/stays/beidahu-shanren-lodge/
+- **梅思文布林克利度假村 / Brinkley Resort Methven** (Resort: `mt-hutt` · 28000m to lift · CNY 860/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/brinkley-resort-methven/ | en: https://huling1215.github.io/en/stays/brinkley-resort-methven/
+- **卡德罗纳高山公寓 / Cardrona Alpine Apartments** (Resort: `cardrona-wanaka` · Ski-in/out · CNY 2480/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/cardrona-alpine-apartments/ | en: https://huling1215.github.io/en/stays/cardrona-alpine-apartments/
+- **采尔马特 CERVO 山地度假酒店 / CERVO Mountain Resort Zermatt** (Resort: `zermatt` · Ski-in/out · CNY 5800/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/cervo-mountain-resort-zermatt/ | en: https://huling1215.github.io/en/stays/cervo-mountain-resort-zermatt/
+- **Club Med 北大湖度假村 / Club Med Beidahu** (Resort: `beidahu` · Ski-in/out · CNY 2980/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/club-med-beidahu/ | en: https://huling1215.github.io/en/stays/club-med-beidahu/
+- **瓦勒迪泽尔地中海俱乐部（奢华系列） / Club Med Val d'Isère Exclusive Collection** (Resort: `val-disere-tignes` · Ski-in/out · CNY 5800/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/club-med-val-disere/ | en: https://huling1215.github.io/en/stays/club-med-val-disere/
+- **科尔蒂纳丹佩佐克里斯塔洛水疗度假村 / Cristallo Resort & Spa Cortina d'Ampezzo** (Resort: `cortina-dolomiti` · 800m to lift · CNY 5400/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/cristallo-resort-cortina/ | en: https://huling1215.github.io/en/stays/cristallo-resort-cortina/
+- **马东纳-迪坎皮利奥DV精品木屋水疗酒店 / DV Chalet Boutique Hotel & Spa** (Resort: `madonna-di-campiglio` · 300m to lift · CNY 3950/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/dv-chalet-madonna-campiglio/ | en: https://huling1215.github.io/en/stays/dv-chalet-madonna-campiglio/
+- **瓦纳卡湖畔水缘度假酒店 / Edgewater Hotel Lake Wānaka** (Resort: `cardrona-wanaka` · 34000m to lift · CNY 1680/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/edgewater-hotel-wanaka/ | en: https://huling1215.github.io/en/stays/edgewater-hotel-wanaka/
+- **高雪维尔1650华氏七度滑进滑出酒店 / Fahrenheit Seven Courchevel** (Resort: `courchevel-3-vallees` · Ski-in/out · CNY 3980/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/fahrenheit-seven-courchevel/ | en: https://huling1215.github.io/en/stays/fahrenheit-seven-courchevel/
+- **班夫温泉费尔蒙城堡酒店 / Fairmont Banff Springs** (Resort: `banff-sunshine-village` · 17500m to lift · CNY 3680/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/fairmont-banff-springs/ | en: https://huling1215.github.io/en/stays/fairmont-banff-springs/
+- **路易斯湖费尔蒙城堡酒店 / Fairmont Chateau Lake Louise** (Resort: `lake-louise-ski-resort` · 5800m to lift · CNY 4280/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/fairmont-chateau-lake-louise/ | en: https://huling1215.github.io/en/stays/fairmont-chateau-lake-louise/
+- **惠斯勒费尔蒙城堡酒店 / Fairmont Chateau Whistler** (Resort: `whistler-blackcomb` · Ski-in/out · CNY 3880/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/fairmont-chateau-whistler/ | en: https://huling1215.github.io/en/stays/fairmont-chateau-whistler/
+- **杰克逊霍尔四季度假酒店 / Four Seasons Resort and Residences Jackson Hole** (Resort: `jackson-hole` · Ski-in/out · CNY 9200/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/four-seasons-jackson-hole/ | en: https://huling1215.github.io/en/stays/four-seasons-jackson-hole/
+- **范尔四季度假酒店 / Four Seasons Resort and Residences Vail** (Resort: `vail` · 350m to lift · CNY 8800/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/four-seasons-vail/ | en: https://huling1215.github.io/en/stays/four-seasons-vail/
+- **惠斯勒四季度假酒店 / Four Seasons Resort and Residences Whistler** (Resort: `whistler-blackcomb` · 450m to lift · CNY 4680/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/four-seasons-whistler/ | en: https://huling1215.github.io/en/stays/four-seasons-whistler/
+- **白马东急酒店 / Hakuba Tokyu Hotel** (Resort: `hakuba-happo` · 500m to lift · CNY 2680/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/hakuba-wadano-alpine-inn/ | en: https://huling1215.github.io/en/stays/hakuba-wadano-alpine-inn/
+- **禾木山庄 / Hemu Mountain Villa** (Resort: `hemu-jikepulin` · 7000m to lift · CNY 1380/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/hemu-taoyuan-lodge/ | en: https://huling1215.github.io/en/stays/hemu-taoyuan-lodge/
+- **切尔维尼亚艾尔米塔日罗莱夏朵酒店 / Hotel Hermitage Relais & Châteaux Cervinia** (Resort: `cervinia-breuil` · 300m to lift · CNY 4500/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/hermitage-hotel-cervinia/ | en: https://huling1215.github.io/en/stays/hermitage-hotel-cervinia/
+- **High1 大酒店 / High1 Grand Hotel Main Tower** (Resort: `high1` · 600m to lift · CNY 1360/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/high1-grand-hotel/ | en: https://huling1215.github.io/en/stays/high1-grand-hotel/
+- **二世谷希尔顿度假酒店 / Hilton Niseko Village** (Resort: `niseko-united` · Ski-in/out · CNY 3360/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/hilton-niseko-village/ | en: https://huling1215.github.io/en/stays/hilton-niseko-village/
+- **圣安东阿尔贝格百年驿站滑进滑出酒店 / Arlberg Hospiz Hotel · St. Christoph** (Resort: `st-anton-arlberg` · Ski-in/out · CNY 5900/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/hospiz-hotel-st-anton/ | en: https://huling1215.github.io/en/stays/hospiz-hotel-st-anton/
+- **圣安东瓦卢加精品住滑酒店 / Valluga Hotel St. Anton** (Resort: `st-anton-arlberg` · 600m to lift · CNY 3680/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/hotel-arlberg-st-anton/ | en: https://huling1215.github.io/en/stays/hotel-arlberg-st-anton/
+- **加尔代纳格罗德纳霍夫美食水疗酒店 / Hotel Gardena Grödnerhof** (Resort: `val-gardena-sellaronda` · 200m to lift · CNY 5100/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/hotel-gardena-grodnerhof/ | en: https://huling1215.github.io/en/stays/hotel-gardena-grodnerhof/
+- **瓦勒迪泽尔熊窝罗莱夏朵酒店 / Hôtel Les Barmes de l'Ours** (Resort: `val-disere-tignes` · Ski-in/out · CNY 6400/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/hotel-les-barmes-de-lours-val-disere/ | en: https://huling1215.github.io/en/stays/hotel-les-barmes-de-lours-val-disere/
+- **霞慕尼勃朗峰典雅酒店 / Hôtel Mont-Blanc Chamonix** (Resort: `chamonix-mont-blanc` · 450m to lift · CNY 4200/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/hotel-mont-blanc-chamonix/ | en: https://huling1215.github.io/en/stays/hotel-mont-blanc-chamonix/
+- **长白山凯悦酒店 / Hyatt Regency Changbaishan** (Resort: `changbaishan-wanda` · Ski-in/out · CNY 2380/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/hyatt-regency-changbaishan/ | en: https://huling1215.github.io/en/stays/hyatt-regency-changbaishan/
+- **可可托海芳华·故事里酒店 / Keketuohai Fanghua Story Hotel** (Resort: `keketuohai` · 18000m to lift · CNY 980/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/keketuohai-birch-camp/ | en: https://huling1215.github.io/en/stays/keketuohai-birch-camp/
+- **圣莫里茨库尔姆百年奢华酒店 / Kulm Hotel St. Moritz** (Resort: `st-moritz-corviglia` · 350m to lift · CNY 7200/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/kulm-hotel-st-moritz/ | en: https://huling1215.github.io/en/stays/kulm-hotel-st-moritz/
+- **高雪维尔1850 K2宫殿酒店 / Le K2 Palace Courchevel** (Resort: `courchevel-3-vallees` · Ski-in/out · CNY 16800/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/le-k2-palace-courchevel/ | en: https://huling1215.github.io/en/stays/le-k2-palace-courchevel/
+- **Oi-Qaragai 林中童话树屋木屋酒店 / Oi-Qaragai Lesnaya Skazka Treehouse & Chalet Resort** (Resort: `oi-qaragai` · Ski-in/out · CNY 1380/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/lesnaya-skazka-oi-qaragai/ | en: https://huling1215.github.io/en/stays/lesnaya-skazka-oi-qaragai/
+- **麦迪奥缆车站山地木屋旅舍 / Medeu Gondola Base Alpine Lodge** (Resort: `shymbulak` · 180m to lift · CNY 960/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/medeu-gondola-base-lodge/ | en: https://huling1215.github.io/en/stays/medeu-gondola-base-lodge/
+- **帕克城鹿谷蒙太奇度假酒店 / Montage Deer Valley** (Resort: `park-city-mountain` · Ski-in/out · CNY 7600/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/montage-deer-valley-park-city/ | en: https://huling1215.github.io/en/stays/montage-deer-valley-park-city/
+- **圣安东莫泽精品滑进滑出酒店 / MOOSER Hotel St. Anton** (Resort: `st-anton-arlberg` · Ski-in/out · CNY 4600/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/mooser-hotel-st-anton/ | en: https://huling1215.github.io/en/stays/mooser-hotel-st-anton/
+- **苗场王子大饭店 / Naeba Prince Hotel** (Resort: `naeba` · Ski-in/out · CNY 1680/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/naeba-prince-hotel/ | en: https://huling1215.github.io/en/stays/naeba-prince-hotel/
+- **绫·二世谷酒店 / Aya Niseko** (Resort: `niseko-united` · Ski-in/out · CNY 4280/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/niseko-hirafu-onsen-chalet/ | en: https://huling1215.github.io/en/stays/niseko-hirafu-onsen-chalet/
+- **皇后镇湖畔诺富特酒店 / Novotel Queenstown Lakeside** (Resort: `coronet-remarkables` · 18000m to lift · CNY 1620/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/novotel-queenstown-lakeside/ | en: https://huling1215.github.io/en/stays/novotel-queenstown-lakeside/
+- **瓦纳卡橡树岭度假村 / Oakridge Resort Lake Wanaka** (Resort: `treble-cone` · 29000m to lift · CNY 1380/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/oakridge-resort-wanaka/ | en: https://huling1215.github.io/en/stays/oakridge-resort-wanaka/
+- **长白山柏悦酒店 / Park Hyatt Changbaishan** (Resort: `changbaishan-wanda` · Ski-in/out · CNY 3280/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/park-hyatt-changbaishan/ | en: https://huling1215.github.io/en/stays/park-hyatt-changbaishan/
+- **平昌凤凰酒店 / Phoenix Pyeongchang The Hotel** (Resort: `phoenix-pyeongchang` · 150m to lift · CNY 1180/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/phoenix-pyeongchang-hotel/ | en: https://huling1215.github.io/en/stays/phoenix-pyeongchang-hotel/
+- **莱赫邮政罗莱夏朵百年酒店 / Hotel Gasthof Post Lech** (Resort: `lech-zurs-arlberg` · 200m to lift · CNY 6200/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/post-lech-arlberg/ | en: https://huling1215.github.io/en/stays/post-lech-arlberg/
+- **皇后镇QT湖景滑雪大本营酒店 / QT Queenstown** (Resort: `coronet-remarkables` · 18000m to lift · CNY 2180/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/qt-queenstown-alpine-base/ | en: https://huling1215.github.io/en/stays/qt-queenstown-alpine-base/
+- **采尔马特里弗尔阿尔卑2222米住滑度假酒店 / Riffelalp Resort 2222m** (Resort: `zermatt` · Ski-in/out · CNY 6850/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/riffelalp-resort-zermatt/ | en: https://huling1215.github.io/en/stays/riffelalp-resort-zermatt/
+- **星野集团 RISONARE Tomamu / Hoshino Resorts RISONARE Tomamu** (Resort: `hoshino-tomamu` · Ski-in/out · CNY 5480/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/risonare-tomamu/ | en: https://huling1215.github.io/en/stays/risonare-tomamu/
+- **阿拉木图丽思卡尔顿滑雪基地酒店 / The Ritz-Carlton, Almaty** (Resort: `shymbulak` · 18500m to lift · CNY 2450/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/ritz-carlton-almaty-ski-base/ | en: https://huling1215.github.io/en/stays/ritz-carlton-almaty-ski-base/
+- **科尔蒂纳罗莎佩特拉水疗精品酒店 / Rosapetra Spa Resort Cortina** (Resort: `cortina-dolomiti` · 2200m to lift · CNY 4650/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/rosapetra-spa-cortina/ | en: https://huling1215.github.io/en/stays/rosapetra-spa-cortina/
+- **留寿都度假村南北馆 / Rusutsu Resort Hotel & Convention** (Resort: `rusutsu` · Ski-in/out · CNY 2480/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/rusutsu-resort-hotel/ | en: https://huling1215.github.io/en/stays/rusutsu-resort-hotel/
+- **琼布拉克萨雷布拉克山谷木屋酒店 / Shymbulak Sarybulak Valley Chalet** (Resort: `shymbulak` · Ski-in/out · CNY 2180/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/shymbulak-chalet-sarybulak/ | en: https://huling1215.github.io/en/stays/shymbulak-chalet-sarybulak/
+- **琼布拉克雪道2260米中站酒店 / Shymbulak Resort Hotel** (Resort: `shymbulak` · Ski-in/out · CNY 1580/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/shymbulak-tengritag-hotel/ | en: https://huling1215.github.io/en/stays/shymbulak-tengritag-hotel/
+- **班夫阳光山顶木屋酒店 / Sunshine Mountain Lodge** (Resort: `banff-sunshine-village` · Ski-in/out · CNY 2980/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/sunshine-mountain-lodge/ | en: https://huling1215.github.io/en/stays/sunshine-mountain-lodge/
+- **莱萨尔克2000泰姬玛五星滑进滑出酒店 / Hôtel Taj-I Mah Les Arcs 2000** (Resort: `les-arcs-paradiski` · Ski-in/out · CNY 4600/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/taj-i-mah-les-arcs/ | en: https://huling1215.github.io/en/stays/taj-i-mah-les-arcs/
+- **基茨比厄尔泰纳霍夫罗莱夏朵庄园酒店 / Hotel Tennerhof Kitzbühel** (Resort: `kitzbuhel` · 500m to lift · CNY 3900/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/tennerhof-kitzbuhel/ | en: https://huling1215.github.io/en/stays/tennerhof-kitzbuhel/
+- **崇礼太舞酒店 / Thaiwoo Hotel** (Resort: `chongli-thaiwoo` · Ski-in/out · CNY 1180/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/thaiwoo-ski-hotel/ | en: https://huling1215.github.io/en/stays/thaiwoo-ski-hotel/
+- **阿斯本小内尔酒店 / The Little Nell** (Resort: `aspen-snowmass` · Ski-in/out · CNY 9800/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/the-little-nell-aspen/ | en: https://huling1215.github.io/en/stays/the-little-nell-aspen/
+- **采尔马特 The Omnia 悬崖设计酒店 / The Omnia Mountain Lodge Zermatt** (Resort: `zermatt` · 800m to lift · CNY 6400/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/the-omnia-zermatt/ | en: https://huling1215.github.io/en/stays/the-omnia-zermatt/
+- **伊施格尔特罗法纳皇家五星水疗酒店 / Hotel Trofana Royal · Ischgl** (Resort: `ischgl-silvretta` · 180m to lift · CNY 5400/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/trofana-royal-ischgl/ | en: https://huling1215.github.io/en/stays/trofana-royal-ischgl/
+- **阿斯本雪堆山总督酒店 / Viceroy Snowmass** (Resort: `aspen-snowmass` · Ski-in/out · CNY 5280/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/viceroy-snowmass/ | en: https://huling1215.github.io/en/stays/viceroy-snowmass/
+- **洪川维瓦尔第 Sono Felice 度假公寓 / Sono Felice Vivaldi Park** (Resort: `vivaldi-sonobel` · 900m to lift · CNY 1650/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/vivaldi-sono-felice/ | en: https://huling1215.github.io/en/stays/vivaldi-sono-felice/
+- **韦尔比耶 W 滑进滑出酒店 / W Verbier** (Resort: `verbier-4-vallees` · Ski-in/out · CNY 6900/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/w-verbier-ski-in-out/ | en: https://huling1215.github.io/en/stays/w-verbier-ski-in-out/
+- **惠斯勒威斯汀水疗度假酒店 / The Westin Resort & Spa, Whistler** (Resort: `whistler-blackcomb` · Ski-in/out · CNY 3180/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/westin-resort-whistler/ | en: https://huling1215.github.io/en/stays/westin-resort-whistler/
+- **留寿都威斯汀度假酒店 / The Westin Rusutsu Resort** (Resort: `rusutsu` · Ski-in/out · CNY 4680/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/westin-rusutsu/ | en: https://huling1215.github.io/en/stays/westin-rusutsu/
+- **龙平度假村龙谷酒店 / Dragon Valley Hotel** (Resort: `yongpyong` · Ski-in/out · CNY 1480/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/yongpyong-dragon-valley-hotel/ | en: https://huling1215.github.io/en/stays/yongpyong-dragon-valley-hotel/
+- **龙平绿茵公寓式酒店 / Yongpyong Greenpia Condominium** (Resort: `yongpyong` · 200m to lift · CNY 1080/night)
+  - URLs: zh-CN: https://huling1215.github.io/stays/yongpyong-greenpia-condo/ | en: https://huling1215.github.io/en/stays/yongpyong-greenpia-condo/
+
+## 4. 全部滑雪套餐 / All Ski Packages (59)
+- **塔尔加尔 Ak-Bulak 千米落差粉雪大本营5天4晚 / Ak-Bulak 1,000 m Vertical Freeride Base 5D4N Package** (Resort: `ak-bulak` · 5D · advanced · CNY 5280/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/ak-bulak-freeride-base-5d4n/ | en: https://huling1215.github.io/en/packages/ak-bulak-freeride-base-5d4n/
+- **哈萨克斯坦阿拉木图免签天山粉雪4天3晚 / Almaty Shymbulak Visa-Free Tien Shan Powder 4D3N Escape** (Resort: `shymbulak` · 4D · intermediate · CNY 4580/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/almaty-shymbulak-visafree-4d3n/ | en: https://huling1215.github.io/en/packages/almaty-shymbulak-visafree-4d3n/
+- **阿拉木图丽思卡尔顿春季高山阳光滑雪5天4晚 / Almaty Ritz-Carlton Spring High-Altitude Ski 5D4N Package** (Resort: `shymbulak` · 5D · intermediate · CNY 8680/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/almaty-spring-glacier-5d4n/ | en: https://huling1215.github.io/en/packages/almaty-spring-glacier-5d4n/
+- **阿拉木图三大雪场串联巡礼6天5晚 / Almaty Three-Resort Ski Safari 6D5N Package** (Resort: `shymbulak` · 6D · intermediate · CNY 5890/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/almaty-three-resorts-pass-6d5n/ | en: https://huling1215.github.io/en/packages/almaty-three-resorts-pass-6d5n/
+- **平昌阿尔卑西亚洲际与龙平亲子滑行5天4晚套餐 / Alpensia InterContinental & Yongpyong Family 5D4N Ski Holiday** (Resort: `yongpyong` · 5D · beginner · CNY 5480/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/alpensia-family-ski-week-5d4n/ | en: https://huling1215.github.io/en/packages/alpensia-family-ski-week-5d4n/
+- **阿勒泰将军山与禾木吉克普林6天5晚四驱雪地胎粉雪团 / Altay Jiangjunshan & Hemu Jikepulin 6D5N 4WD Powder Safari** (Resort: `hemu-jikepulin` · 6D · advanced · CNY 7680/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/altay-hemu-powder-safari-6d5n/ | en: https://huling1215.github.io/en/packages/altay-hemu-powder-safari-6d5n/
+- **阿斯本四山联滑7天6晚小内尔传奇住滑包 / Aspen Four-Mountain 7D6N Signature Ski Week at The Little Nell** (Resort: `aspen-snowmass` · 7D · advanced · CNY 39800/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/aspen-four-mountain-ikon-7d6n/ | en: https://huling1215.github.io/en/packages/aspen-four-mountain-ikon-7d6n/
+- **加拿大班夫三大雪场联滑7天6晚温泉城堡包 / Banff SkiBig3 7D6N Rockies Ski Week at Fairmont Banff Springs** (Resort: `banff-sunshine-village` · 7D · intermediate · CNY 17900/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/banff-big3-rail-and-bus-7d6n/ | en: https://huling1215.github.io/en/packages/banff-big3-rail-and-bus-7d6n/
+- **北大湖零基础4天3晚滑进滑出教学营 / Beidahu 4D3N First-Timer Ski-In Coaching Camp** (Resort: `beidahu` · 4D · beginner · CNY 4680/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/beidahu-beginner-camp-4d3n/ | en: https://huling1215.github.io/en/packages/beidahu-beginner-camp-4d3n/
+- **北大湖5天4晚亲子托管与滑进滑出家庭度假包 / Beidahu 5D4N Family Ski-In & Kids Camp Holiday Package** (Resort: `beidahu` · 5D · beginner · CNY 11600/package)
+  - URLs: zh-CN: https://huling1215.github.io/packages/beidahu-family-ski-holiday-5d4n/ | en: https://huling1215.github.io/en/packages/beidahu-family-ski-holiday-5d4n/
+- **加拿大落基山班夫+路易斯湖10天9晚深度住滑定制包 / Canadian Rockies 10D9N Ikon Ski Safari at Sunshine & Lake Louise** (Resort: `banff-sunshine-village` · 10D · advanced · CNY 29800/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/canadian-rockies-ikon-10d9n/ | en: https://huling1215.github.io/en/packages/canadian-rockies-ikon-10d9n/
+- **切尔维尼亚与采尔马特跨国冰川6天5晚 / Cervinia & Zermatt Cross-Border Glacier 6D5N Package** (Resort: `cervinia-breuil` · 6D · intermediate · CNY 21500/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/cervinia-zermatt-glacier-6d5n/ | en: https://huling1215.github.io/en/packages/cervinia-zermatt-glacier-6d5n/
+- **霞慕尼勃朗峰山谷全景6天5晚 / Chamonix Mont-Blanc Valley Panorama 6D5N Package** (Resort: `chamonix-mont-blanc` · 6D · intermediate · CNY 21800/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/chamonix-mont-blanc-valley-6d5n/ | en: https://huling1215.github.io/en/packages/chamonix-mont-blanc-valley-6d5n/
+- **长白山万达4天3晚滑进滑出与天然火山温泉家庭自由行 / Changbaishan Wanda 4D3N Ski-In/Ski-Out & Volcanic Onsen Family Package** (Resort: `changbaishan-wanda` · 4D · beginner · CNY 3980/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/changbaishan-ski-onsen-4d3n/ | en: https://huling1215.github.io/en/packages/changbaishan-ski-onsen-4d3n/
+- **崇礼太舞京张高铁周末3天2晚住滑自由行 / Chongli Thaiwoo 3D2N Jingzhang HSR Weekend Ski-and-Stay Package** (Resort: `chongli-thaiwoo` · 3D · intermediate · CNY 1880/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/chongli-thaiwoo-hsr-weekend-3d2n/ | en: https://huling1215.github.io/en/packages/chongli-thaiwoo-hsr-weekend-3d2n/
+- **科罗拉多雪堆山亲子滑雪6天5晚威斯罗伊住滑包 / Colorado Rockies Family Ski 6D5N Stay at Viceroy Snowmass** (Resort: `aspen-snowmass` · 6D · beginner · CNY 24800/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/colorado-rockies-family-ski-6d5n/ | en: https://huling1215.github.io/en/packages/colorado-rockies-family-ski-6d5n/
+- **威尼斯直达科尔蒂纳冬奥雪场5天4晚 / Cortina d'Ampezzo & Venice Express 5D4N Ski Escape** (Resort: `cortina-dolomiti` · 5D · intermediate · CNY 14600/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/cortina-venice-express-5d4n/ | en: https://huling1215.github.io/en/packages/cortina-venice-express-5d4n/
+- **高雪维尔1650向阳新手进阶5天4晚 / Courchevel 1650 Sunny Beginner Progression 5D4N** (Resort: `courchevel-3-vallees` · 5D · beginner · CNY 16200/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/courchevel-1650-beginner-5d4n/ | en: https://huling1215.github.io/en/packages/courchevel-1650-beginner-5d4n/
+- **多洛米蒂阳光春雪与温泉美食5天4晚 / Dolomites Spring Sun, Spa & Gourmet 5D4N Escape** (Resort: `val-gardena-sellaronda` · 5D · beginner · CNY 16200/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/dolomites-gourmet-spring-5d4n/ | en: https://huling1215.github.io/en/packages/dolomites-gourmet-spring-5d4n/
+- **白马八方尾根和田野温泉住滑5天4晚自由定制方案 / Hakuba Happo-One Wadano Onsen 5D4N Custom Ski Plan** (Resort: `hakuba-happo` · 5D · intermediate · Inquiry)
+  - URLs: zh-CN: https://huling1215.github.io/packages/hakuba-happo-wadano-stay-5d4n/ | en: https://huling1215.github.io/en/packages/hakuba-happo-wadano-stay-5d4n/
+- **伊施格尔-萨姆瑙恩跨国免税滑行5天4晚 / Ischgl & Samnaun Cross-Border Ski 5D4N Package** (Resort: `ischgl-silvretta` · 5D · intermediate · CNY 22400/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/ischgl-samnaun-dutyfree-5d4n/ | en: https://huling1215.github.io/en/packages/ischgl-samnaun-dutyfree-5d4n/
+- **怀俄明杰克逊霍尔陡坡粉雪6天5晚四季定制包 / Jackson Hole Steep Chutes 6D5N Custom Stay at Four Seasons** (Resort: `jackson-hole` · 6D · advanced · CNY 34800/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/jackson-hole-steep-chutes-6d5n/ | en: https://huling1215.github.io/en/packages/jackson-hole-steep-chutes-6d5n/
+- **新疆可可托海1219米大落差粉雪6天5晚定制住滑方案 / Keketuohai 1,219 m Vertical Powder 6D5N Custom Ski Plan** (Resort: `keketuohai` · 6D · advanced · Inquiry)
+  - URLs: zh-CN: https://huling1215.github.io/packages/keketuohai-3100m-powder-6d5n/ | en: https://huling1215.github.io/en/packages/keketuohai-3100m-powder-6d5n/
+- **基茨比厄尔哈嫩卡姆巡航6天5晚 / Kitzbühel Hahnenkamm Cruise 6D5N Package** (Resort: `kitzbuhel` · 6D · intermediate · CNY 21600/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/kitzbuhel-hahnenkamm-week-6d5n/ | en: https://huling1215.github.io/en/packages/kitzbuhel-hahnenkamm-week-6d5n/
+- **韩国江原道龙平与High1 4天3晚首尔出发住滑入门包 / Korea Gangwon Yongpyong & High1 4D3N Beginner Ski Escape from Seoul** (Resort: `yongpyong` · 4D · beginner · CNY 4680/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/korea-gangwon-yongpyong-high1-4d3n/ | en: https://huling1215.github.io/en/packages/korea-gangwon-yongpyong-high1-4d3n/
+- **韩国江原道High1大酒店与双山长道畅滑5天4晚套餐 / Korea Gangwon High1 Grand Hotel & Long-Cruiser 5D4N Ski Tour** (Resort: `high1` · 5D · intermediate · CNY 5180/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/korea-ktx-gangwon-double-resort-5d4n/ | en: https://huling1215.github.io/en/packages/korea-ktx-gangwon-double-resort-5d4n/
+- **加拿大路易斯湖冰川童话5天4晚城堡亲子包 / Lake Louise Glacier Fairytale 5D4N Family Ski Stay at Fairmont** (Resort: `lake-louise-ski-resort` · 5D · beginner · CNY 16200/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/lake-louise-rockies-family-5d4n/ | en: https://huling1215.github.io/en/packages/lake-louise-rockies-family-5d4n/
+- **莱赫-楚尔斯白环巡航7天6晚 / Lech Zürs White Ring Circuit 7D6N Package** (Resort: `lech-zurs-arlberg` · 7D · intermediate · CNY 33600/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/lech-zurs-white-ring-7d6n/ | en: https://huling1215.github.io/en/packages/lech-zurs-white-ring-7d6n/
+- **法国三峡谷TGV高铁住滑周7天6晚 / Les 3 Vallées TGV Rail & Courchevel 1650 Ski Week 7D6N** (Resort: `courchevel-3-vallees` · 7D · intermediate · CNY 23800/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/les-3-vallees-tgv-ski-week-7d6n/ | en: https://huling1215.github.io/en/packages/les-3-vallees-tgv-ski-week-7d6n/
+- **莱萨尔克Paradiski亲子住滑6天5晚 / Les Arcs Paradiski Family Ski-In 6D5N Package** (Resort: `les-arcs-paradiski` · 6D · beginner · CNY 21400/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/les-arcs-family-paradiski-6d5n/ | en: https://huling1215.github.io/en/packages/les-arcs-family-paradiski-6d5n/
+- **布伦塔多洛米蒂马东纳精华滑行6天5晚 / Madonna di Campiglio Brenta Dolomites 6D5N Ski Week** (Resort: `madonna-di-campiglio` · 6D · beginner · CNY 16800/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/madonna-di-campiglio-family-6d5n/ | en: https://huling1215.github.io/en/packages/madonna-di-campiglio-family-6d5n/
+- **基督城直达哈特山梅思文高性价比住滑4天3晚套餐 / Mt Hutt & Methven Christchurch-Gate 4D3N Ski Break** (Resort: `mt-hutt` · 4D · intermediate · CNY 5980/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/mt-hutt-christchurch-4d3n/ | en: https://huling1215.github.io/en/packages/mt-hutt-christchurch-4d3n/
+- **新潟苗场王子大饭店4天3晚东京新干线往返住滑包 / Naeba Prince Hotel 4D3N Tokyo Shinkansen Ski-In/Out Escape** (Resort: `naeba` · 4D · beginner · CNY 5980/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/naeba-shinkansen-ski-escape-4d3n/ | en: https://huling1215.github.io/en/packages/naeba-shinkansen-ski-escape-4d3n/
+- **新西兰皇后镇与瓦纳卡7至8月盛夏反季三山连滑7天6晚套餐 / New Zealand Queenstown & Wānaka July-August Endless Winter Three-Peak 7D6N Ski Safari** (Resort: `cardrona-wanaka` · 7D · intermediate · CNY 14800/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/new-zealand-queenstown-wanaka-summer-ski-7d6n/ | en: https://huling1215.github.io/en/packages/new-zealand-queenstown-wanaka-summer-ski-7d6n/
+- **北海道二世谷6天5晚粉雪进阶与林间带滑营 / Niseko United 6D5N Powder Progression & Tree-Run Camp** (Resort: `niseko-united` · 6D · intermediate · CNY 13800/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/niseko-powder-progression-6d5n/ | en: https://huling1215.github.io/en/packages/niseko-powder-progression-6d5n/
+- **新西兰南岛四山全览滑进滑出10天9晚深度套餐 / New Zealand South Island 4-Mountain Grand Loop 10D9N Ski Safari** (Resort: `cardrona-wanaka` · 10D · intermediate · CNY 21800/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/nz-south-island-4-mountain-10d9n/ | en: https://huling1215.github.io/en/packages/nz-south-island-4-mountain-10d9n/
+- **阿拉木图 Oi-Qaragai 森林树屋亲子滑雪4天3晚 / Oi-Qaragai Family Forest Treehouse Ski 4D3N Package** (Resort: `oi-qaragai` · 4D · beginner · CNY 4680/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/oi-qaragai-family-forest-4d3n/ | en: https://huling1215.github.io/en/packages/oi-qaragai-family-forest-4d3n/
+- **犹他帕克城短途直达5天4晚蒙太奇粉雪轻奢包 / Park City & Deer Valley 5D4N Easy SLC Transfer Stay at Montage** (Resort: `park-city-mountain` · 5D · intermediate · CNY 21500/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/park-city-slc-easy-transfer-5d4n/ | en: https://huling1215.github.io/en/packages/park-city-slc-easy-transfer-5d4n/
+- **平昌凤凰冬奥雪道与公园住滑3天2晚套餐 / Phoenix Pyeongchang Olympic Park & Slopes 3D2N Escape** (Resort: `phoenix-pyeongchang` · 3D · intermediate · CNY 3280/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/phoenix-pyeongchang-park-3d2n/ | en: https://huling1215.github.io/en/packages/phoenix-pyeongchang-park-3d2n/
+- **皇后镇湖畔入住皇冠峰夜滑与卓越山4天3晚套餐 / Queenstown Lakeside Coronet Night Ski & Remarkables 4D3N Escape** (Resort: `coronet-remarkables` · 4D · beginner · CNY 7680/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/queenstown-coronet-night-ski-4d3n/ | en: https://huling1215.github.io/en/packages/queenstown-coronet-night-ski-4d3n/
+- **北海道留寿都与二世谷双雪场6天5晚住滑自由行 / Hokkaido Rusutsu & Niseko Dual-Mountain 6D5N Ski-In/Out Escape** (Resort: `rusutsu` · 6D · intermediate · CNY 11600/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/rusutsu-niseko-dual-mountain-6d5n/ | en: https://huling1215.github.io/en/packages/rusutsu-niseko-dual-mountain-6d5n/
+- **多洛米蒂塞拉环线四谷巡航7天6晚 / Dolomites Sellaronda Circuit 7D6N Ski Package** (Resort: `val-gardena-sellaronda` · 7D · intermediate · CNY 21800/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/sellaronda-dolomiti-circuit-7d6n/ | en: https://huling1215.github.io/en/packages/sellaronda-dolomiti-circuit-7d6n/
+- **琼布拉克 2260 米中站夜滑周末快闪3天2晚 / Shymbulak 2,260 m Night-Ski Weekend Express 3D2N Package** (Resort: `shymbulak` · 3D · intermediate · CNY 3480/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/shymbulak-night-ski-weekend-3d2n/ | en: https://huling1215.github.io/en/packages/shymbulak-night-ski-weekend-3d2n/
+- **圣安东ÖBB铁路与1800米驿站住滑6天5晚 / St. Anton ÖBB Rail & 1,800 m Ski-In 6D5N Package** (Resort: `st-anton-arlberg` · 6D · advanced · CNY 26800/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/st-anton-oebb-rail-6d5n/ | en: https://huling1215.github.io/en/packages/st-anton-oebb-rail-6d5n/
+- **圣莫里茨伯尔尼纳观景列车与科尔维利亚滑雪6天5晚 / St. Moritz Bernina Rail & Corviglia Ski 6D5N Package** (Resort: `st-moritz-corviglia` · 6D · intermediate · CNY 34800/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/st-moritz-bernina-rail-6d5n/ | en: https://huling1215.github.io/en/packages/st-moritz-bernina-rail-6d5n/
+- **瑞士半价卡铁路环线与采尔马特悬崖酒店8天7晚 / Swiss Half-Fare Rail Tour & The Omnia Zermatt 8D7N Package** (Resort: `zermatt` · 8D · intermediate · CNY 38600/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/swiss-half-fare-ski-grand-tour-8d7n/ | en: https://huling1215.github.io/en/packages/swiss-half-fare-ski-grand-tour-8d7n/
+- **北海道星野Tomamu 5天4晚雾冰与亲子戏雪度假包 / Hoshino Resorts Tomamu 5D4N Frost-Terrace & Family Suite Holiday** (Resort: `hoshino-tomamu` · 5D · beginner · CNY 12800/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/tomamu-family-snow-holiday-5d4n/ | en: https://huling1215.github.io/en/packages/tomamu-family-snow-holiday-5d4n/
+- **瓦纳卡三锥山700米落差进阶住滑6天5晚套餐 / Wānaka Treble Cone 700 m Vertical Progression 6D5N Ski Week** (Resort: `treble-cone` · 6D · advanced · CNY 12400/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/treble-cone-powder-week-6d5n/ | en: https://huling1215.github.io/en/packages/treble-cone-powder-week-6d5n/
+- **蒂罗尔基茨比厄尔亲子雪周6天5晚 / Tyrol Kitzbühel Family Ski Week 6D5N Package** (Resort: `kitzbuhel` · 6D · beginner · CNY 19800/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/tyrol-family-ski-week-6d5n/ | en: https://huling1215.github.io/en/packages/tyrol-family-ski-week-6d5n/
+- **美国范尔七大后碗探索7天6晚阿拉贝尔住滑包 / Vail Back Bowls 7D6N Slopeside Ski Week at The Arrabelle** (Resort: `vail` · 7D · intermediate · CNY 26800/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/vail-back-bowls-week-7d6n/ | en: https://huling1215.github.io/en/packages/vail-back-bowls-week-7d6n/
+- **瓦勒迪泽尔与蒂涅冰川住滑7天6晚 / Val d'Isère & Tignes Glacier Ski-In 7D6N Package** (Resort: `val-disere-tignes` · 7D · intermediate · CNY 29800/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/val-disere-tignes-glacier-7d6n/ | en: https://huling1215.github.io/en/packages/val-disere-tignes-glacier-7d6n/
+- **韦尔比耶四峡谷 W 住滑与向导野雪7天6晚 / Verbier 4 Vallées W Ski-In & Guided Freeride 7D6N Package** (Resort: `verbier-4-vallees` · 7D · advanced · CNY 39800/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/verbier-4-vallees-freeride-7d6n/ | en: https://huling1215.github.io/en/packages/verbier-4-vallees-freeride-7d6n/
+- **首尔直达维瓦尔第公园含雪具套房3天2晚套餐 / Vivaldi Park Seoul Shuttle & Sono Felice 3D2N Ski Package** (Resort: `vivaldi-sonobel` · 3D · beginner · CNY 2680/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/vivaldi-seoul-shuttle-ski-3d2n/ | en: https://huling1215.github.io/en/packages/vivaldi-seoul-shuttle-ski-3d2n/
+- **惠斯勒新手入门轻度假4天3晚四季住滑包 / Whistler Blackcomb Beginner 4D3N Escape at Four Seasons** (Resort: `whistler-blackcomb` · 4D · beginner · CNY 12800/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/whistler-blackcomb-beginner-4d3n/ | en: https://huling1215.github.io/en/packages/whistler-blackcomb-beginner-4d3n/
+- **加拿大惠斯勒黑梳山双峰连滑7天6晚费尔蒙住滑包 / Whistler Blackcomb 7D6N Peak 2 Peak Slopeside Ski Week at Fairmont** (Resort: `whistler-blackcomb` · 7D · intermediate · CNY 19800/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/whistler-peak2peak-ski-week-7d6n/ | en: https://huling1215.github.io/en/packages/whistler-peak2peak-ski-week-7d6n/
+- **惠斯勒春季冰川阳光5天4晚威斯汀套房包 / Whistler Spring Glacier & Sunshine 5D4N Suite Stay at Westin** (Resort: `whistler-blackcomb` · 5D · intermediate · CNY 11800/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/whistler-spring-glacier-camp-5d4n/ | en: https://huling1215.github.io/en/packages/whistler-spring-glacier-camp-5d4n/
+- **采尔马特 CERVO 瑞意跨国雪道巡游5天4晚 / Zermatt CERVO Swiss-Italian Cross-Border 5D4N Package** (Resort: `zermatt` · 5D · intermediate · CNY 26800/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/zermatt-cervinia-cross-border-5d4n/ | en: https://huling1215.github.io/en/packages/zermatt-cervinia-cross-border-5d4n/
+- **瑞士采尔马特冰川列车与马特洪峰住滑7天6晚 / Zermatt Glacier Express & Matterhorn 2222m Ski-In 7D6N Package** (Resort: `zermatt` · 7D · intermediate · CNY 28600/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/zermatt-glacier-rail-ski-7d6n/ | en: https://huling1215.github.io/en/packages/zermatt-glacier-rail-ski-7d6n/
+- **采尔马特 3883 米冰川夏秋晨训5天4晚 / Zermatt 3,883 m Glacier Summer & Autumn Ski Camp 5D4N Package** (Resort: `zermatt` · 5D · intermediate · CNY 23800/person)
+  - URLs: zh-CN: https://huling1215.github.io/packages/zermatt-summer-glacier-camp-5d4n/ | en: https://huling1215.github.io/en/packages/zermatt-summer-glacier-camp-5d4n/
+
 ## 5. 全部主题合集 / All Topic Collections (8)
 - **欧洲阿尔卑斯跨谷连通大雪区与火车直达精选 / European Alps Linked Mega-Domains & Rail-Direct Ski Resorts**
   - URLs: zh-CN: https://huling1215.github.io/collections/alps-iconic-linked-domains/ | en: https://huling1215.github.io/en/collections/alps-iconic-linked-domains/

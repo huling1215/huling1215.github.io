@@ -12,6 +12,8 @@
 ## 2. 栏目入口 / Directory Sections
 - 首页 / Home: https://huling1215.github.io/ | https://huling1215.github.io/en/
 - 雪场目录 / Resorts (43): https://huling1215.github.io/resorts/ | https://huling1215.github.io/en/resorts/
+- 住滑酒店 / Stays (68): https://huling1215.github.io/stays/ | https://huling1215.github.io/en/stays/
+- 滑雪套餐 / Packages (59): https://huling1215.github.io/packages/ | https://huling1215.github.io/en/packages/
 - 主题合集 / Collections (8): https://huling1215.github.io/collections/ | https://huling1215.github.io/en/collections/
 - 实测攻略 / Guides (63): https://huling1215.github.io/guides/ | https://huling1215.github.io/en/guides/
 - 常见问题 / FAQ: https://huling1215.github.io/faq/ | https://huling1215.github.io/en/faq/
@@ -24,6 +26,18 @@
 - 崇礼太舞滑雪小镇 / Thaiwoo Ski Resort (2160m, 31 runs): https://huling1215.github.io/resorts/china/hebei/chongli-thaiwoo/
 - 高雪维尔与三峡谷 / Courchevel · Les 3 Vallées (3230m, 339 runs): https://huling1215.github.io/resorts/france/savoie/courchevel-3-vallees/
 - 禾木吉克普林国际滑雪度假区 / Hemu Jikepulin International Ski Resort (2848m, 103 runs): https://huling1215.github.io/resorts/china/xinjiang/hemu-jikepulin/
+### 住滑酒店 / Ski Stays
+- 塔尔加尔 Ak-Bulak 高山滑雪度假酒店 / Ak-Bulak Alpine Resort Hotel (ak-bulak): https://huling1215.github.io/stays/ak-bulak-alpine-resort/
+- 范尔广场阿拉贝尔酒店 / The Arrabelle at Vail Square (vail): https://huling1215.github.io/stays/arrabelle-vail-square/
+- 北大湖山湖居酒店 / Beidahu Shanhuju Ski-In Hotel (beidahu): https://huling1215.github.io/stays/beidahu-shanren-lodge/
+- 卡德罗纳高山公寓 / Cardrona Alpine Apartments (cardrona-wanaka): https://huling1215.github.io/stays/cardrona-alpine-apartments/
+- 采尔马特 CERVO 山地度假酒店 / CERVO Mountain Resort Zermatt (zermatt): https://huling1215.github.io/stays/cervo-mountain-resort-zermatt/
+### 行程套餐 / Packages
+- 塔尔加尔 Ak-Bulak 千米落差粉雪大本营5天4晚 / Ak-Bulak 1,000 m Vertical Freeride Base 5D4N Package (5D): https://huling1215.github.io/packages/ak-bulak-freeride-base-5d4n/
+- 哈萨克斯坦阿拉木图免签天山粉雪4天3晚 / Almaty Shymbulak Visa-Free Tien Shan Powder 4D3N Escape (4D): https://huling1215.github.io/packages/almaty-shymbulak-visafree-4d3n/
+- 阿拉木图丽思卡尔顿春季高山阳光滑雪5天4晚 / Almaty Ritz-Carlton Spring High-Altitude Ski 5D4N Package (5D): https://huling1215.github.io/packages/almaty-spring-glacier-5d4n/
+- 阿拉木图三大雪场串联巡礼6天5晚 / Almaty Three-Resort Ski Safari 6D5N Package (6D): https://huling1215.github.io/packages/almaty-three-resorts-pass-6d5n/
+- 平昌阿尔卑西亚洲际与龙平亲子滑行5天4晚套餐 / Alpensia InterContinental & Yongpyong Family 5D4N Ski Holiday (5D): https://huling1215.github.io/packages/alpensia-family-ski-week-5d4n/
 ### 主题合集 / Collections
 - 欧洲阿尔卑斯跨谷连通大雪区与火车直达精选 / European Alps Linked Mega-Domains & Rail-Direct Ski Resorts: https://huling1215.github.io/collections/alps-iconic-linked-domains/
 - 北海道与新疆阿勒泰深粉雪及开放林间道指南 / Hokkaido & Altay Deep Powder and Open Tree-Run Guide: https://huling1215.github.io/collections/deep-powder-and-tree-runs/
@@ -39,7 +53,7 @@
 - 全量完整条目清单见 / Full list: https://huling1215.github.io/llms-full.txt
 
 ## 4. Localized editions
-### 繁體中文 (zh-Hant, 177 pages)
+### 繁體中文 (zh-Hant, 306 pages)
 - Home: https://huling1215.github.io/zh-hant/ | Guides RSS: https://huling1215.github.io/zh-hant/rss.xml
 - Directories: https://huling1215.github.io/zh-hant/resorts/ | https://huling1215.github.io/zh-hant/guides/ | https://huling1215.github.io/zh-hant/collections/
   - 北大湖滑雪度假區: https://huling1215.github.io/zh-hant/resorts/china/jilin/beidahu/
@@ -48,7 +62,7 @@
   - 中國護照免簽去哈薩克阿拉木圖瓊布拉克滑雪：航班、雪票與住宿怎麼安排？: https://huling1215.github.io/zh-hant/guides/almaty-shymbulak-visa-free-ski-trip-guide/
   - 阿拉木圖三大雪場對比：瓊布拉克、Oi-Qaragai 與 Ak-Bulak 各自適合什麼水平？: https://huling1215.github.io/zh-hant/guides/almaty-shymbulak-vs-oi-qaragai-vs-ak-bulak/
   - 免簽去阿拉木圖滑雪怎麼換堅戈、買當地電話卡與租雪板？: https://huling1215.github.io/zh-hant/guides/almaty-visa-free-currency-sim-and-ski-rental/
-### 日本語 (ja, 177 pages)
+### 日本語 (ja, 189 pages)
 - Home: https://huling1215.github.io/ja/ | Guides RSS: https://huling1215.github.io/ja/rss.xml
 - Directories: https://huling1215.github.io/ja/resorts/ | https://huling1215.github.io/ja/guides/ | https://huling1215.github.io/ja/collections/
   - 北大湖スキーリゾート: https://huling1215.github.io/ja/resorts/china/jilin/beidahu/
@@ -57,7 +71,7 @@
   - アルマトイ・シンブラクのビザなし航空便と宿手配は？: https://huling1215.github.io/ja/guides/almaty-shymbulak-visa-free-ski-trip-guide/
   - アルマトイ3大スキー場はレベル別にどう選ぶべきか？: https://huling1215.github.io/ja/guides/almaty-shymbulak-vs-oi-qaragai-vs-ak-bulak/
   - アルマトイの両替・現地SIM・板レンタル手順は？: https://huling1215.github.io/ja/guides/almaty-visa-free-currency-sim-and-ski-rental/
-### 한국어 (ko, 177 pages)
+### 한국어 (ko, 198 pages)
 - Home: https://huling1215.github.io/ko/ | Guides RSS: https://huling1215.github.io/ko/rss.xml
 - Directories: https://huling1215.github.io/ko/resorts/ | https://huling1215.github.io/ko/guides/ | https://huling1215.github.io/ko/collections/
   - 베이다후(북대호) 스키 리조트: https://huling1215.github.io/ko/resorts/china/jilin/beidahu/
@@ -69,4 +83,4 @@
 
 ## 5. 联系方式与更新日期 / Contact & Updated
 - 在线咨询表单 / Inquiry Form: https://huling1215.github.io/contact/ | https://huling1215.github.io/en/contact/
-- 最近更新 / Updated: 2026-11-21 | 最近核验 / Verified: 2026-11-21
+- 最近更新 / Updated: 2026-11-22 | 最近核验 / Verified: 2026-11-22
