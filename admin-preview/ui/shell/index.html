@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>多站点运营管理中心 · Niche Travel Sites</title>
+  <link rel="stylesheet" href="/ui/shell/styles.css" />
+</head>
+<body>
+  <section id="admLoginGate" class="adm-gate">
+    <div class="adm-gate__card" role="dialog" aria-labelledby="admLoginTitle">
+      <div class="adm-gate__eyebrow">OPERATIONS CONSOLE · 内部运营后台</div>
+      <h1 id="admLoginTitle" class="adm-gate__title">多站点内容与品类运营中心</h1>
+      <p id="admInitHint" class="adm-alert adm-alert--warn" hidden>
+        当前服务器尚未创建任何运营账号。请在服务器仓库目录执行：<br />
+        <code>npm run admin:user -- add --username admin --password &lt;强密码&gt; --roles admin</code>
+      </p>
+      <form id="admLoginForm" class="adm-form" novalidate>
+        <div class="adm-field">
+          <label class="adm-label" for="admLoginUser">用户名</label>
+          <input id="admLoginUser" name="username" type="text" class="adm-input" autocomplete="username" required placeholder="请输入运营账号用户名" />
+        </div>
+        <div class="adm-field">
+          <label class="adm-label" for="admLoginPass">登录密码</label>
+          <input id="admLoginPass" name="password" type="password" class="adm-input" autocomplete="current-password" required placeholder="请输入密码" />
+        </div>
+        <p id="admLoginError" class="adm-field__error" role="alert" hidden></p>
+        <button id="admLoginSubmit" type="button" class="adm-btn adm-btn--primary adm-btn--block">登录运营后台</button>
+      </form>
+    </div>
+  </section>
+
+  <div id="admAppShell" class="adm-shell" hidden>
+    <aside class="adm-sidebar" aria-label="功能模块导航">
+      <div class="adm-brand">
+        <span class="adm-brand__dot"></span>
+        <div>
+          <strong>运营管理中心</strong>
+          <small class="adm-muted">Git 版本化后台</small>
+        </div>
+      </div>
+      <nav id="admNavList" class="adm-nav"></nav>
+    </aside>
+
+    <div class="adm-main-col">
+      <header class="adm-topbar">
+        <div class="adm-topbar__left">
+          <label class="adm-site-picker">
+            <span>当前站点</span>
+            <select id="admSiteSelect" class="adm-input"></select>
+          </label>
+          <button id="admPendingBanner" type="button" class="adm-pending-pill" title="点击跳转到发布中心查看未发布改动">
+            未发布修改：<strong id="admPendingCount">0</strong>
+          </button>
+        </div>
+
+        <div class="adm-topbar__right">
+          <div class="adm-quick-pipeline">
+            <button id="btnGenerate" type="button" class="adm-btn adm-btn--outline adm-btn--sm">AI 生成</button>
+            <button id="btnTranslate" type="button" class="adm-btn adm-btn--outline adm-btn--sm">AI 翻译</button>
+            <button id="btnTransStatus" type="button" class="adm-btn adm-btn--ghost adm-btn--sm">翻译状态</button>
+          </div>
+          <span id="admCurrentUser" class="adm-user-badge"></span>
+          <button id="admChangePwdBtn" type="button" class="adm-btn adm-btn--ghost adm-btn--sm">修改密码</button>
+          <button id="admLogoutBtn" type="button" class="adm-btn adm-btn--outline adm-btn--sm">退出</button>
+        </div>
+      </header>
+
+      <main id="admModuleViewport" class="adm-viewport" aria-live="polite"></main>
+    </div>
+  </div>
+
+  <script type="module" src="/ui/shell/app.js"></script>
+</body>
+</html>

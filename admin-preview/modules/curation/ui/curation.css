@@ -1,0 +1,105 @@
+.cur-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.15fr);
+  gap: 18px;
+  align-items: start;
+}
+@media (max-width: 1024px) {
+  .cur-grid { grid-template-columns: 1fr; }
+}
+.cur-panel {
+  background: var(--adm-surface);
+  border: 1px solid var(--adm-border);
+  border-radius: var(--adm-radius);
+  padding: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.cur-panel__title {
+  margin: 0;
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--adm-primary);
+}
+.cur-mod-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.cur-mod-card {
+  border: 1px solid var(--adm-border);
+  border-radius: var(--adm-radius);
+  background: #fbfcfe;
+  padding: 12px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  transition: border-color 0.15s, background 0.15s;
+}
+.cur-mod-card.is-hidden {
+  opacity: 0.68;
+  background: #f3f4f8;
+  border-style: dashed;
+}
+.cur-mod-card.is-drag-over {
+  border-color: var(--adm-accent);
+  background: #fff5f5;
+}
+.cur-mod-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.cur-mod-handle {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: 600;
+  cursor: grab;
+  user-select: none;
+}
+.cur-mod-order-badge {
+  display: inline-grid;
+  place-items: center;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  background: var(--adm-primary);
+  color: #fff;
+  font-size: 12px;
+  font-weight: 700;
+}
+.cur-pin-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.cur-pin-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 8px;
+  border-radius: 4px;
+  background: #eef2ff;
+  border: 1px solid #c7d2fe;
+  font-size: 12px;
+}
+.cur-pin-chip button {
+  border: 0;
+  background: transparent;
+  color: var(--adm-muted);
+  cursor: pointer;
+  padding: 0 2px;
+  font-size: 12px;
+}
+.cur-pin-chip button:hover { color: var(--adm-accent); }
+.cur-pin-picker {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.cur-pin-picker select { flex: 1; min-width: 180px; }

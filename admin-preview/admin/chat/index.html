@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>在线客服工作台 · 雪迹 PowderClub</title>
+  <link rel="stylesheet" href="/admin/chat/styles.css" />
+</head>
+<body>
+  <section id="loginGate" class="gate-backdrop">
+    <div class="gate-card" role="dialog" aria-labelledby="gateTitle">
+      <div class="gate-kicker">POWDERCLUB · LIVE DESK</div>
+      <h1 id="gateTitle" class="gate-title">实时在线客服工作台</h1>
+      <p class="gate-desc">输入顾问称呼与环境变量配置的 <code>CHAT_ADMIN_TOKEN</code> 登录接入会话。</p>
+      <div id="devAuthHint" class="gate-hint" hidden>
+        本地 127.0.0.1 调试提示：当前未设置环境变量 <code>CHAT_ADMIN_TOKEN</code>，可输入任意非空调试口令进入；正式部署前务必配置强口令。
+      </div>
+      <form id="loginForm" class="gate-form" novalidate>
+        <label class="field">
+          <span>顾问名称</span>
+          <input id="agentNameInput" name="agentName" type="text" maxlength="60" required autocomplete="nickname" placeholder="例如：林顾问 / Alex" />
+        </label>
+        <label class="field">
+          <span>管理令牌（CHAT_ADMIN_TOKEN）</span>
+          <input id="tokenInput" name="token" type="password" maxlength="256" required autocomplete="current-password" placeholder="请输入管理令牌" />
+        </label>
+        <p id="loginError" class="gate-error" role="alert" hidden></p>
+        <button id="loginSubmitBtn" type="submit" class="btn btn-primary btn-block">连接客服工作台</button>
+      </form>
+    </div>
+  </section>
+
+  <div id="workbench" class="workbench" hidden>
+    <header class="topbar">
+      <div class="topbar__brand">
+        <span class="topbar__mark"></span>
+        <strong>雪迹 POWDERCLUB · 客服工作台</strong>
+      </div>
+      <div class="topbar__status">
+        <span class="conn-pill" id="connPill" data-state="connecting">
+          <i class="dot"></i>
+          <span id="connText">连接中…</span>
+        </span>
+        <span class="meta-pill" id="agentsOnlinePill">在线顾问: 0</span>
+        <span class="meta-pill" id="currentAgentPill"></span>
+        <button id="logoutBtn" type="button" class="btn btn-ghost">退出</button>
+      </div>
+    </header>
+
+    <div class="workspace">
+      <aside class="sidebar" aria-label="访客会话列表">
+        <div class="sidebar__toolbar">
+          <div class="filter-tabs" role="tablist" aria-label="筛选会话">
+            <button type="button" class="filter-tab is-active" data-filter="all">全部</button>
+            <button type="button" class="filter-tab" data-filter="unread">未读</button>
+            <button type="button" class="filter-tab" data-filter="mine">我认领的</button>
+          </div>
+          <button id="refreshBtn" type="button" class="btn btn-sm" title="同步会话">刷新</button>
+        </div>
+        <ul id="sessionList" class="session-list"></ul>
+        <div id="emptySessions" class="empty-note">暂无访客会话，等待新咨询接入…</div>
+      </aside>
+
+      <main class="chat-pane" aria-label="实时对话窗口">
+        <div id="noActiveSession" class="pane-placeholder">
+          <p>请从左侧选择一条访客会话查看上下文并实时回复</p>
+        </div>
+
+        <div id="activeConversation" class="conversation" hidden>
+          <div class="conv-header">
+            <div class="conv-meta">
+              <div class="conv-title-row">
+                <span id="convOnlineDot" class="visitor-dot"></span>
+                <strong id="convTitle" class="conv-title"></strong>
+                <span id="convLocaleTag" class="tag tag-locale"></span>
+                <span id="convClaimTag" class="tag tag-claim"></span>
+              </div>
+              <div class="conv-context-row">
+                <span id="convPagePath" class="context-path"></span>
+                <span id="convSearchSummary" class="context-search"></span>
+              </div>
+            </div>
+            <div class="conv-actions">
+              <button id="claimBtn" type="button" class="btn btn-outline">认领会话</button>
+            </div>
+          </div>
+
+          <div id="messageStream" class="message-stream" role="log" aria-live="polite"></div>
+
+          <div id="visitorTypingBar" class="typing-bar" hidden>访客正在输入…</div>
+
+          <div class="quick-replies" id="quickRepliesBar">
+            <button type="button" class="quick-chip" data-quick="您好！我是雪迹行程顾问，请问计划几月出发、几位同行？">问候与询问团期</button>
+            <button type="button" class="quick-chip" data-quick="正在为您核对目标日期的实时房态与雪票库存，请稍候 1–2 分钟。">正在核对房态</button>
+            <button type="button" class="quick-chip" data-quick="若需发送详细行程报价单，方便留下您的微信、邮箱或 WhatsApp 吗？">索取报价接收方式</button>
+          </div>
+
+          <form id="replyForm" class="composer">
+            <textarea
+              id="replyInput"
+              rows="2"
+              maxlength="1000"
+              placeholder="输入回复内容（Enter 发送，Shift + Enter 换行）…"
+              aria-label="回复内容"
+            ></textarea>
+            <button id="replySendBtn" type="submit" class="btn btn-primary">发送回复</button>
+          </form>
+        </div>
+      </main>
+    </div>
+  </div>
+
+  <script type="module" src="/admin/chat/app.js"></script>
+</body>
+</html>
